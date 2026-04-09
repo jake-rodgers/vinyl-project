@@ -1,0 +1,44 @@
+{
+  "updated": "April 09, 2026",
+  "picks": [
+    {
+      "id": 3,
+      "artist": "Vulfpeck",
+      "album": "Clarity of Cal",
+      "year": "2025",
+      "mbid": "a2b93024-d1be-4309-9f5d-547f0603fed6",
+      "cover": "https://dn710706.ca.archive.org/0/items/mbid-a2b93024-d1be-4309-9f5d-547f0603fed6/mbid-a2b93024-d1be-4309-9f5d-547f0603fed6-41356521192.jpg",
+      "tracks": [
+        "Big Dipper",
+        "Matter of Time",
+        "Can You Tell",
+        "In Real Life",
+        "Tender Defender",
+        "New Beastly",
+        "La Gioconda",
+        "The Heist",
+        "Memories",
+        "Aug 26",
+        "This Is Not the Song I Wrote"
+      ]
+    },
+    {
+      "id": 1,
+      "artist": "Fleetwood Mac",
+      "album": "Rumours",
+      "year": 1977,
+      "mbid": "",
+      "cover": "",
+      "tracks": []
+    },
+    {
+      "id": 2,
+      "artist": "Radiohead",
+      "album": "OK Computer",
+      "year": 1997,
+      "mbid": "",
+      "cover": "",
+      "tracks": []
+    }
+  ]
+}

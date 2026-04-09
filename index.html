@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Jake's Vinyl</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet" />
+  <style>
+    /* ── Reset & base ── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:        #f9f7f4;
+      --surface:   #ffffff;
+      --ink:       #1a1a18;
+      --ink-mid:   #6b6b66;
+      --ink-light: #b0afa8;
+      --accent:    #c8502a;
+      --border:    #e8e6e0;
+      --radius:    4px;
+      --serif:     'DM Serif Display', Georgia, serif;
+      --sans:      'DM Sans', system-ui, sans-serif;
+    }
+
+    html { font-size: 16px; }
+
+    body {
+      background: var(--bg);
+      color: var(--ink);
+      font-family: var(--sans);
+      font-weight: 300;
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* ── Layout shell ── */
+    .site-header {
+      border-bottom: 1px solid var(--border);
+      padding: 2rem 0;
+    }
+
+    .site-header .inner {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 0 2rem;
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .site-title {
+      font-family: var(--serif);
+      font-size: 1.75rem;
+      font-weight: 400;
+      letter-spacing: -0.01em;
+    }
+
+    .site-title span {
+      color: var(--accent);
+      font-style: italic;
+    }
+
+    .site-nav {
+      display: flex;
+      gap: 2rem;
+      list-style: none;
+    }
+
+    .site-nav a {
+      font-size: 0.8rem;
+      font-weight: 500;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--ink-mid);
+      text-decoration: none;
+      transition: color 0.15s;
+    }
+
+    .site-nav a:hover { color: var(--ink); }
+
+    main {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 0 2rem;
+    }
+
+    /* ── Section headings ── */
+    .section-label {
+      font-size: 0.7rem;
+      font-weight: 500;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--ink-light);
+      margin-bottom: 0.5rem;
+    }
+
+    .section-title {
+      font-family: var(--serif);
+      font-size: 2rem;
+      font-weight: 400;
+      letter-spacing: -0.02em;
+      margin-bottom: 2.5rem;
+    }
+
+    /* ── Monthly picks section ── */
+    #picks {
+      padding: 4rem 0 3rem;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .picks-meta {
+      font-size: 0.8rem;
+      color: var(--ink-light);
+      margin-bottom: 3rem;
+      margin-top: -1.5rem;
+    }
+
+    .picks-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 2rem;
+    }
+
+    .pick-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      overflow: hidden;
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+
+    .pick-card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 8px 32px rgba(0,0,0,0.08);
+    }
+
+    .pick-card .cover {
+      width: 100%;
+      aspect-ratio: 1 / 1;
+      object-fit: cover;
+      display: block;
+      background: var(--border);
+    }
+
+    .pick-card .cover-placeholder {
+      width: 100%;
+      aspect-ratio: 1 / 1;
+      background: var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 3rem;
+      color: var(--ink-light);
+    }
+
+    .pick-card .card-body {
+      padding: 1.25rem;
+    }
+
+    .pick-card .card-artist {
+      font-size: 0.75rem;
+      font-weight: 500;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 0.25rem;
+    }
+
+    .pick-card .card-album {
+      font-family: var(--serif);
+      font-size: 1.2rem;
+      font-weight: 400;
+      margin-bottom: 0.2rem;
+      line-height: 1.3;
+    }
+
+    .pick-card .card-year {
+      font-size: 0.8rem;
+      color: var(--ink-light);
+      margin-bottom: 1rem;
+    }
+
+    .pick-card .card-tracks {
+      list-style: none;
+      border-top: 1px solid var(--border);
+      padding-top: 0.9rem;
+    }
+
+    .pick-card .card-tracks li {
+      font-size: 0.8rem;
+      color: var(--ink-mid);
+      padding: 0.2rem 0;
+      display: flex;
+      gap: 0.75rem;
+    }
+
+    .pick-card .card-tracks li .track-num {
+      color: var(--ink-light);
+      min-width: 1.2rem;
+      text-align: right;
+    }
+
+    /* ── Collection section ── */
+    #collection {
+      padding: 4rem 0;
+    }
+
+    .collection-controls {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      margin-bottom: 2.5rem;
+      flex-wrap: wrap;
+    }
+
+    .collection-controls input {
+      flex: 1;
+      min-width: 200px;
+      padding: 0.6rem 0.9rem;
+      font-family: var(--sans);
+      font-size: 0.85rem;
+      font-weight: 300;
+      color: var(--ink);
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      outline: none;
+      transition: border-color 0.15s;
+    }
+
+    .collection-controls input:focus {
+      border-color: var(--ink-mid);
+    }
+
+    .collection-controls input::placeholder {
+      color: var(--ink-light);
+    }
+
+    .collection-count {
+      font-size: 0.8rem;
+      color: var(--ink-light);
+      white-space: nowrap;
+    }
+
+    .collection-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+      gap: 1.25rem;
+    }
+
+    .record-tile {
+      cursor: default;
+      transition: transform 0.15s;
+    }
+
+    .record-tile:hover { transform: translateY(-2px); }
+
+    .record-tile .tile-cover {
+      width: 100%;
+      aspect-ratio: 1 / 1;
+      object-fit: cover;
+      display: block;
+      border-radius: var(--radius);
+      background: var(--border);
+      margin-bottom: 0.6rem;
+    }
+
+    .record-tile .tile-cover-placeholder {
+      width: 100%;
+      aspect-ratio: 1 / 1;
+      background: var(--border);
+      border-radius: var(--radius);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.8rem;
+      color: var(--ink-light);
+      margin-bottom: 0.6rem;
+    }
+
+    .record-tile .tile-artist {
+      font-size: 0.7rem;
+      font-weight: 500;
+      color: var(--ink-mid);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .record-tile .tile-album {
+      font-size: 0.8rem;
+      font-weight: 400;
+      color: var(--ink);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .record-tile .tile-year {
+      font-size: 0.7rem;
+      color: var(--ink-light);
+    }
+
+    /* ── Empty / loading states ── */
+    .state-msg {
+      grid-column: 1 / -1;
+      text-align: center;
+      padding: 3rem;
+      color: var(--ink-light);
+      font-size: 0.9rem;
+    }
+
+    /* ── Footer ── */
+    .site-footer {
+      border-top: 1px solid var(--border);
+      padding: 2rem;
+      text-align: center;
+      font-size: 0.75rem;
+      color: var(--ink-light);
+    }
+
+    /* ── Responsive ── */
+    @media (max-width: 600px) {
+      .section-title { font-size: 1.5rem; }
+      .picks-grid { grid-template-columns: 1fr; }
+      .collection-grid { grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); }
+    }
+  </style>
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="inner">
+      <h1 class="site-title">Jake's <span>Vinyl</span></h1>
+      <nav>
+        <ul class="site-nav">
+          <li><a href="#picks">This Month</a></li>
+          <li><a href="#collection">Collection</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+
+    <!-- Monthly picks -->
+    <section id="picks">
+      <p class="section-label">Now spinning</p>
+      <h2 class="section-title">This Month's Picks</h2>
+      <p class="picks-meta" id="picks-meta">Loading…</p>
+      <div class="picks-grid" id="picks-grid">
+        <p class="state-msg">Loading picks…</p>
+      </div>
+    </section>
+
+    <!-- Full collection -->
+    <section id="collection">
+      <p class="section-label">The shelf</p>
+      <h2 class="section-title">Full Collection</h2>
+      <div class="collection-controls">
+        <input type="search" id="search" placeholder="Search artist or album…" />
+        <span class="collection-count" id="collection-count"></span>
+      </div>
+      <div class="collection-grid" id="collection-grid">
+        <p class="state-msg">Loading collection…</p>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <p>Updated automatically · Built with Python &amp; GitHub Actions</p>
+  </footer>
+
+  <script>
+    // ── Helpers ──────────────────────────────────────────────────────────────
+
+    function coverImg(url, cssClass) {
+      if (url) {
+        return `<img class="${cssClass}" src="${url}" alt="album cover" loading="lazy" onerror="this.replaceWith(placeholder('${cssClass}'))" />`;
+      }
+      return placeholder(cssClass);
+    }
+
+    function placeholder(cssClass) {
+      const el = document.createElement('div');
+      el.className = cssClass.replace('cover', 'cover-placeholder').replace('tile-cover', 'tile-cover-placeholder');
+      el.textContent = '◉';
+      return el;
+    }
+
+    function placeholderHTML(cssClass) {
+      const ph = cssClass.includes('tile') ? 'tile-cover-placeholder' : 'cover-placeholder';
+      return `<div class="${ph}">◉</div>`;
+    }
+
+    // ── Render picks ─────────────────────────────────────────────────────────
+
+    function renderPicks(picks, updatedDate) {
+      const grid = document.getElementById('picks-grid');
+      const meta = document.getElementById('picks-meta');
+
+      meta.textContent = updatedDate ? `Last updated ${updatedDate}` : '';
+
+      if (!picks.length) {
+        grid.innerHTML = '<p class="state-msg">No picks yet — run generate.py to get started.</p>';
+        return;
+      }
+
+      grid.innerHTML = picks.map(r => {
+        const coverHTML = r.cover
+          ? `<img class="cover" src="${r.cover}" alt="${r.album}" loading="lazy" onerror="this.outerHTML='<div class=cover-placeholder>◉</div>'" />`
+          : `<div class="cover-placeholder">◉</div>`;
+
+        const tracksHTML = (r.tracks || []).map((t, i) =>
+          `<li><span class="track-num">${i + 1}</span>${t}</li>`
+        ).join('');
+
+        return `
+          <article class="pick-card">
+            ${coverHTML}
+            <div class="card-body">
+              <p class="card-artist">${r.artist}</p>
+              <h3 class="card-album">${r.album}</h3>
+              <p class="card-year">${r.year}</p>
+              ${tracksHTML ? `<ol class="card-tracks">${tracksHTML}</ol>` : ''}
+            </div>
+          </article>`;
+      }).join('');
+    }
+
+    // ── Render collection ────────────────────────────────────────────────────
+
+    let allRecords = [];
+
+    function renderCollection(records) {
+      const grid = document.getElementById('collection-grid');
+      const count = document.getElementById('collection-count');
+
+      count.textContent = `${records.length} record${records.length !== 1 ? 's' : ''}`;
+
+      if (!records.length) {
+        grid.innerHTML = '<p class="state-msg">No records match your search.</p>';
+        return;
+      }
+
+      // Sort A–Z by artist
+      const sorted = [...records].sort((a, b) => a.artist.localeCompare(b.artist));
+
+      grid.innerHTML = sorted.map(r => {
+        const coverHTML = r.cover
+          ? `<img class="tile-cover" src="${r.cover}" alt="${r.album}" loading="lazy" onerror="this.outerHTML='<div class=tile-cover-placeholder>◉</div>'" />`
+          : `<div class="tile-cover-placeholder">◉</div>`;
+
+        return `
+          <div class="record-tile">
+            ${coverHTML}
+            <p class="tile-artist">${r.artist}</p>
+            <p class="tile-album">${r.album}</p>
+            <p class="tile-year">${r.year}</p>
+          </div>`;
+      }).join('');
+    }
+
+    // ── Search ───────────────────────────────────────────────────────────────
+
+    document.getElementById('search').addEventListener('input', function () {
+      const q = this.value.toLowerCase().trim();
+      const filtered = q
+        ? allRecords.filter(r =>
+            r.artist.toLowerCase().includes(q) ||
+            r.album.toLowerCase().includes(q)
+          )
+        : allRecords;
+      renderCollection(filtered);
+    });
+
+    // ── Load data ────────────────────────────────────────────────────────────
+
+    async function loadData() {
+      try {
+        // Load picks
+        const picksRes = await fetch('picks.json');
+        if (picksRes.ok) {
+          const picksData = await picksRes.json();
+          renderPicks(picksData.picks || [], picksData.updated || null);
+        } else {
+          renderPicks([], null);
+        }
+      } catch {
+        renderPicks([], null);
+      }
+
+      try {
+        // Load full collection
+        const recRes = await fetch('records.json');
+        if (recRes.ok) {
+          allRecords = await recRes.json();
+          renderCollection(allRecords);
+        }
+      } catch {
+        document.getElementById('collection-grid').innerHTML =
+          '<p class="state-msg">Could not load collection.</p>';
+      }
+    }
+
+    loadData();
+  </script>
+
+</body>
+</html>
