@@ -2,43 +2,66 @@
   "updated": "April 09, 2026",
   "picks": [
     {
-      "id": 3,
-      "artist": "Vulfpeck",
-      "album": "Clarity of Cal",
-      "year": "2025",
-      "mbid": "a2b93024-d1be-4309-9f5d-547f0603fed6",
-      "cover": "https://dn710706.ca.archive.org/0/items/mbid-a2b93024-d1be-4309-9f5d-547f0603fed6/mbid-a2b93024-d1be-4309-9f5d-547f0603fed6-41356521192.jpg",
+      "id": 13,
+      "artist": "Sheena Easton",
+      "album": "Take My Time",
+      "year": "1981",
+      "mbid": "4938eac0-79c5-4c36-8bab-69e30a440df6",
+      "cover": "https://dn710703.ca.archive.org/0/items/mbid-4938eac0-79c5-4c36-8bab-69e30a440df6/mbid-4938eac0-79c5-4c36-8bab-69e30a440df6-22207202273.jpg",
       "tracks": [
-        "Big Dipper",
-        "Matter of Time",
-        "Can You Tell",
-        "In Real Life",
-        "Tender Defender",
-        "New Beastly",
-        "La Gioconda",
-        "The Heist",
-        "Memories",
-        "Aug 26",
-        "This Is Not the Song I Wrote"
+        "Don't Send Flowers",
+        "Cry",
+        "Take My Time",
+        "When He Shines",
+        "One Man Woman",
+        "Prisoner",
+        "9 to 5",
+        "So Much in Love",
+        "Voice on the Radio",
+        "Calm Before the Storm",
+        "Modern Girl",
+        "No One Ever Knows"
+      ]
+    },
+    {
+      "id": 33,
+      "artist": "Members of the Glenn Miller Orchestra",
+      "album": "Members of the Glenn Miller Orchestra Play A Tribute to Glenn Miller",
+      "year": "",
+      "mbid": "",
+      "cover": "https://jake-rodgers.github.io/vinyl-project/images/glennmiller_vinyl.jpeg",
+      "tracks": [
+        "Anvil Chorus",
+        "Kalamazoo",
+        "Song of the Volga Boatmen",
+        "Sunrise Serenade",
+        "Londonderry Air",
+        "Chatanooga Choo Choo",
+        "Under the Double Eagle",
+        "Anitra's Dance",
+        "Habenera",
+        "Swingin' Mood"
       ]
     },
     {
       "id": 1,
-      "artist": "Fleetwood Mac",
-      "album": "Rumours",
-      "year": 1977,
+      "artist": "Cory Wong",
+      "album": "Live at Montreux Jazz Fest",
+      "year": 2025,
       "mbid": "",
-      "cover": "",
-      "tracks": []
-    },
-    {
-      "id": 2,
-      "artist": "Radiohead",
-      "album": "OK Computer",
-      "year": 1997,
-      "mbid": "",
-      "cover": "",
-      "tracks": []
+      "cover": "https://i.discogs.com/iiWuY9ofsCWXeJGWPXBP7aw883KVyWeMYbPlC0cpchM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDM3/NDU2LTE3NjczNTgz/NTgtNDA5Ny5qcGVn.jpeg",
+      "tracks": [
+        "Assassin",
+        "Welcome 2 Minneapolis",
+        "Bluebird",
+        "Team Sports",
+        "Let's Go",
+        "Meditation",
+        "St. Paul",
+        "Brooklyn Bop",
+        "Flyers Direct",
+        "Lunchtime"
+      ]
     }
   ]
 }
