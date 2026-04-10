@@ -222,7 +222,7 @@
     "album": "Violin Concerto in E Minor, OP. 64",
     "year": "1946",
     "mbid": "3ea05f90-7b41-49fa-801b-afc4ca2d41bd",
-    "cover": "https://dn721604.ca.archive.org/0/items/mbid-3ea05f90-7b41-49fa-801b-afc4ca2d41bd/mbid-3ea05f90-7b41-49fa-801b-afc4ca2d41bd-31156801314.jpg",
+    "cover": "https://jake-rodgers.github.io/vinyl-project/images/mendelssohn_violinconcerto.jpeg",
     "tracks": [
       "Violin Concerto in E minor, op. 64 (Part Two)",
       "Violin Concerto in E minor, op. 64 (Part Four)"
@@ -423,7 +423,7 @@
     "album": "20 All-Time Greatest Hits",
     "year": "2002",
     "mbid": "267292f3-dd10-4fbf-8d64-a8bc59601e4b",
-    "cover": "https://ia902905.us.archive.org/30/items/mbid-267292f3-dd10-4fbf-8d64-a8bc59601e4b/mbid-267292f3-dd10-4fbf-8d64-a8bc59601e4b-34964506979.jpg",
+    "cover": "https://i.discogs.com/G_VV3uKlUxAhHM_kgmtHFo0LODBCZhBFmhSrHHxDnzg/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MjI4/OTMtMTU3NTU0NjIy/NC05OTg2LmpwZWc.jpeg",
     "tracks": [
       "Roses Are Red (My Love) (1962)",
       "Blue Velvet (1963)",
@@ -680,7 +680,7 @@
     "album": "Wagner's Greatest Hits",
     "year": "",
     "mbid": "2a68d68d-0699-46bf-8363-2f4e9aa724d1",
-    "cover": "https://dn721809.ca.archive.org/0/items/mbid-2a68d68d-0699-46bf-8363-2f4e9aa724d1/mbid-2a68d68d-0699-46bf-8363-2f4e9aa724d1-35066278504.jpg",
+    "cover": "https://i.discogs.com/AHa8thC-9lDlVFLDCHAdjHwiokCVhS-uDfwSd4GTcGw/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4OTc1/NTAtMTY1OTY2Mzc3/Ni03OTk4LmpwZWc.jpeg",
     "tracks": [
       "Die Meistersinger: Prelude to Act 1",
       "Lohengrin: Prelude to Act III",
@@ -691,5 +691,82 @@
       "Tannh\u00e4user: Act III: Song to the Evening Star",
       "Die Walk\u00fcre: Act III: Ride of the Valkyries"
     ]
+  },
+  {
+    "id": 32,
+    "artist": "Original Broadway Cast",
+    "album": "The Sound of Music",
+    "year": "1959",
+    "mbid": "",
+    "cover": "https://i.discogs.com/bVHqsmP-8vNPIhFLQh8VYNU0si0tF636F0BpFy_VZdQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTQ2/OTQtMTIwNzI5MTE4/OS5qcGVn.jpeg",
+    "tracks": [
+      "Preludium",
+      "The Sound of Music",
+      "Maria",
+      "My Favorite Things",
+      "Do-Re-Mi",
+      "Sixteen Going on Seventeen",
+      "The Lonely Goatherd",
+      "How Can Love Survive?",
+      "The Sound of Music (Reprise)",
+      "Laendler",
+      "So Long, Farewell",
+      "Climb Ev'ry Mountain",
+      "No Way to Stop It",
+      "An Ordinary Couple",
+      "Processional",
+      "Sixteen Going on Seventeen (Reprise)",
+      "Edelweiss",
+      "Climb Ev'ry Mountain (Reprise)"
+    ]
+  },
+  {
+    "id": 33,
+    "artist": "Members of the Glenn Miller Orchestra",
+    "album": "Members of the Glenn Miller Orchestra Play A Tribute to Glenn Miller",
+    "year": "",
+    "mbid": "",
+    "cover": "https://jake-rodgers.github.io/vinyl-project/images/glennmiller_vinyl.jpeg",
+    "tracks": [
+      "Anvil Chorus",
+      "Kalamazoo",
+      "Song of the Volga Boatmen",
+      "Sunrise Serenade",
+      "Londonderry Air",
+      "Chatanooga Choo Choo",
+      "Under the Double Eagle",
+      "Anitra's Dance",
+      "Habenera",
+      "Swingin' Mood"
+    ]
+  },
+  {
+    "id": 34,
+    "artist": "Eddie Blazonczyk's Versatones",
+    "album": "Polka Medley Album",
+    "year": "1983",
+    "mbid": "",
+    "cover": "https://jake-rodgers.github.io/vinyl-project/images/eddieB_vinyl.jpeg",
+    "tracks": [
+      "Give a Hand to The Band",
+      "Old Timers Polka Favorites",
+      "Tribute to the Bands",
+      "Versatones Greatest Hits"
+    ]
+  },
+  {
+    "id": 35,
+    "artist": "De'Sean Jones",
+    "album": "URBAN ART ORCHESTRA live in DETROIT vol. 2",
+    "year": "2024",
+    "mbid": "",
+    "cover": "https://f4.bcbits.com/img/a3434877029_1x1_700.avif",
+    "tracks": [
+      "Before I Let Go feat. Kory Barksdale",
+      "Fall feat. Kenny Watson",
+      "Speak No Evil",
+      "Greyhound (mvmt i ii iii)"
+    ]
   }
+
 ]
