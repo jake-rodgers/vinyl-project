@@ -1,12 +1,23 @@
 [
   {
     "id": 1,
-    "artist": "Fleetwood Mac",
-    "album": "Rumours",
-    "year": 1977,
+    "artist": "Cory Wong",
+    "album": "Live at Montreux Jazz Fest",
+    "year": 2025,
     "mbid": "",
-    "cover": "",
-    "tracks": []
+    "cover": "https://i.discogs.com/iiWuY9ofsCWXeJGWPXBP7aw883KVyWeMYbPlC0cpchM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDM3/NDU2LTE3NjczNTgz/NTgtNDA5Ny5qcGVn.jpeg",
+    "tracks": [
+      "Assassin",
+      "Welcome 2 Minneapolis",
+      "Bluebird",
+      "Team Sports",
+      "Let's Go",
+      "Meditation",
+      "St. Paul",
+      "Brooklyn Bop",
+      "Flyers Direct",
+      "Lunchtime"
+    ]
   },
   {
     "id": 2,
@@ -62,7 +73,7 @@
   {
     "id": 5,
     "artist": "Ray Charles",
-    "album": "No one does it like ray charles",
+    "album": "No One Does It Like Ray Charles",
     "year": "2025",
     "mbid": "1da4c3e4-96f9-4231-8fce-a79748e7cdef",
     "cover": "https://dn710208.ca.archive.org/0/items/mbid-1da4c3e4-96f9-4231-8fce-a79748e7cdef/mbid-1da4c3e4-96f9-4231-8fce-a79748e7cdef-44065945107.jpg",
@@ -84,7 +95,7 @@
   {
     "id": 6,
     "artist": "Cory Wong",
-    "album": "Cory & the Wongnotes",
+    "album": "Cory & The Wongnotes",
     "year": "2021",
     "mbid": "a0876ba1-5a30-4cbf-a2f6-b0ffb39e8728",
     "cover": "https://i.discogs.com/rX5O7caQbk4P4tNndhxyWlUPb8lu7EK2tdPIIVWXNJo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzEz/NzU1LTE2MjQ5NDg4/MjMtMjU1NS5qcGVn.jpeg",
@@ -105,7 +116,7 @@
   {
     "id": 7,
     "artist": "Fearless Flyers",
-    "album": "Flyers Live at madison square garden",
+    "album": "Flyers Live at Madison Square Garden",
     "year": "2021",
     "mbid": "3d1f77c4-db52-4a75-9d94-6ff4ac59cf64",
     "cover": "https://dn721607.ca.archive.org/0/items/mbid-3d1f77c4-db52-4a75-9d94-6ff4ac59cf64/mbid-3d1f77c4-db52-4a75-9d94-6ff4ac59cf64-34579360369.jpg",
@@ -147,38 +158,7 @@
   {
     "id": 9,
     "artist": "Vulfpeck",
-    "album": "Sauna",
-    "year": "2022",
-    "mbid": "4642d370-de89-445f-872c-826a09c525ce",
-    "cover": "https://dn710008.ca.archive.org/0/items/mbid-4642d370-de89-445f-872c-826a09c525ce/mbid-4642d370-de89-445f-872c-826a09c525ce-34223483947.jpg",
-    "tracks": [
-      "Sauna"
-    ]
-  },
-  {
-    "id": 10,
-    "artist": "Vulfpeck",
-    "album": "Schvitz",
-    "year": "2023",
-    "mbid": "85dd1a8c-acc5-4ed9-9a9c-0abdf78d2312",
-    "cover": "https://i.discogs.com/--81F8xLirFu7RVAMUyHYlYwGHgQQuOe6IXo10ACSgQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjYz/OTkzLTE2NzI4NTQ3/MzctNDIzNS5qcGVn.jpeg",
-    "tracks": [
-      "Sauna",
-      "Earworm",
-      "New Guru",
-      "All That\u2019s Left of Me Is You",
-      "Simple Step",
-      "In Heaven",
-      "Serve Somebody",
-      "Romanian Drinking Song",
-      "What Did You Mean by Love?",
-      "Miracle"
-    ]
-  },
-  {
-    "id": 11,
-    "artist": "vulfpeck",
-    "album": "thrill of the arts",
+    "album": "Thrill Of The Arts",
     "year": "2015",
     "mbid": "c39dae00-554e-467b-a611-519f7457ff79",
     "cover": "https://i.discogs.com/YU_x0wMLJRLBCVQf72bf8B_8_AinMJU18lXh63xo_tw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Nzc4/OTQtMTQ0NDQxNzI1/MC0yNjIyLmpwZWc.jpeg",
