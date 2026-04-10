@@ -253,7 +253,7 @@
     }
 
     .record-tile {
-      cursor: default;
+      cursor: pointer;
       transition: transform 0.15s;
     }
 
@@ -303,6 +303,101 @@
     .record-tile .tile-year {
       font-size: 0.7rem;
       color: var(--ink-light);
+    }
+
+    /* ── Modal ── */
+    #modal-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.5);
+      z-index: 100;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 2rem;
+    }
+
+    #modal {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      max-width: 600px;
+      width: 100%;
+      max-height: 90vh;
+      overflow-y: auto;
+      position: relative;
+    }
+
+    #modal-close {
+      position: sticky;
+      top: 1rem;
+      float: right;
+      margin: 1rem 1rem 0 0;
+      background: none;
+      border: none;
+      font-size: 1.2rem;
+      color: var(--ink-light);
+      cursor: pointer;
+      line-height: 1;
+    }
+
+    #modal-close:hover { color: var(--ink); }
+
+    #modal-content {
+      padding: 2rem;
+      clear: both;
+    }
+
+    #modal-content img {
+      width: 100%;
+      aspect-ratio: 1 / 1;
+      object-fit: cover;
+      border-radius: var(--radius);
+      margin-bottom: 1.25rem;
+    }
+
+    #modal-content .modal-artist {
+      font-size: 0.75rem;
+      font-weight: 500;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 0.25rem;
+    }
+
+    #modal-content .modal-album {
+      font-family: var(--serif);
+      font-size: 1.6rem;
+      font-weight: 400;
+      margin-bottom: 0.25rem;
+      line-height: 1.2;
+    }
+
+    #modal-content .modal-year {
+      font-size: 0.85rem;
+      color: var(--ink-light);
+      margin-bottom: 1.25rem;
+    }
+
+    #modal-content .modal-tracks {
+      list-style: none;
+      border-top: 1px solid var(--border);
+      padding-top: 1rem;
+    }
+
+    #modal-content .modal-tracks li {
+      font-size: 0.85rem;
+      color: var(--ink-mid);
+      padding: 0.3rem 0;
+      display: flex;
+      gap: 0.75rem;
+      border-bottom: 1px solid var(--border);
+    }
+
+    #modal-content .modal-tracks li .track-num {
+      color: var(--ink-light);
+      min-width: 1.5rem;
+      text-align: right;
     }
 
     /* ── Empty / loading states ── */
@@ -376,29 +471,17 @@
     <p>Updated automatically · Built with Python &amp; GitHub Actions</p>
   </footer>
 
+  <!-- Record detail modal -->
+  <div id="modal-overlay" style="display:none;">
+    <div id="modal">
+      <button id="modal-close">✕</button>
+      <div id="modal-content"></div>
+    </div>
+  </div>
+
   <script>
-    // ── Helpers ──────────────────────────────────────────────────────────────
 
-    function coverImg(url, cssClass) {
-      if (url) {
-        return `<img class="${cssClass}" src="${url}" alt="album cover" loading="lazy" onerror="this.replaceWith(placeholder('${cssClass}'))" />`;
-      }
-      return placeholder(cssClass);
-    }
-
-    function placeholder(cssClass) {
-      const el = document.createElement('div');
-      el.className = cssClass.replace('cover', 'cover-placeholder').replace('tile-cover', 'tile-cover-placeholder');
-      el.textContent = '◉';
-      return el;
-    }
-
-    function placeholderHTML(cssClass) {
-      const ph = cssClass.includes('tile') ? 'tile-cover-placeholder' : 'cover-placeholder';
-      return `<div class="${ph}">◉</div>`;
-    }
-
-    // ── Render picks ─────────────────────────────────────────────────────────
+    // ── Render picks ──────────────────────────────────────────────────────────
 
     function renderPicks(picks, updatedDate) {
       const grid = document.getElementById('picks-grid');
@@ -433,7 +516,7 @@
       }).join('');
     }
 
-    // ── Render collection ────────────────────────────────────────────────────
+    // ── Render collection ─────────────────────────────────────────────────────
 
     let allRecords = [];
 
@@ -448,7 +531,6 @@
         return;
       }
 
-      // Sort A–Z by artist
       const sorted = [...records].sort((a, b) => a.artist.localeCompare(b.artist));
 
       grid.innerHTML = sorted.map(r => {
@@ -457,7 +539,7 @@
           : `<div class="tile-cover-placeholder">◉</div>`;
 
         return `
-          <div class="record-tile">
+          <div class="record-tile" onclick="openModal(${r.id})">
             ${coverHTML}
             <p class="tile-artist">${r.artist}</p>
             <p class="tile-album">${r.album}</p>
@@ -466,7 +548,46 @@
       }).join('');
     }
 
-    // ── Search ───────────────────────────────────────────────────────────────
+    // ── Modal ─────────────────────────────────────────────────────────────────
+
+    function openModal(id) {
+      const record = allRecords.find(r => r.id === id);
+      if (!record) return;
+
+      const coverHTML = record.cover
+        ? `<img src="${record.cover}" alt="${record.album}" />`
+        : `<div class="cover-placeholder">◉</div>`;
+
+      const tracksHTML = (record.tracks || []).map((t, i) =>
+        `<li><span class="track-num">${i + 1}</span>${t}</li>`
+      ).join('');
+
+      document.getElementById('modal-content').innerHTML = `
+        ${coverHTML}
+        <p class="modal-artist">${record.artist}</p>
+        <h2 class="modal-album">${record.album}</h2>
+        <p class="modal-year">${record.year}</p>
+        ${tracksHTML ? `<ol class="modal-tracks">${tracksHTML}</ol>` : ''}
+      `;
+
+      document.getElementById('modal-overlay').style.display = 'flex';
+      document.body.style.overflow = 'hidden';
+    }
+
+    function closeModal() {
+      document.getElementById('modal-overlay').style.display = 'none';
+      document.body.style.overflow = '';
+    }
+
+    document.getElementById('modal-close').addEventListener('click', closeModal);
+    document.getElementById('modal-overlay').addEventListener('click', function(e) {
+      if (e.target === this) closeModal();
+    });
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape') closeModal();
+    });
+
+    // ── Search ────────────────────────────────────────────────────────────────
 
     document.getElementById('search').addEventListener('input', function () {
       const q = this.value.toLowerCase().trim();
@@ -479,11 +600,10 @@
       renderCollection(filtered);
     });
 
-    // ── Load data ────────────────────────────────────────────────────────────
+    // ── Load data ─────────────────────────────────────────────────────────────
 
     async function loadData() {
       try {
-        // Load picks
         const picksRes = await fetch('picks.json');
         if (picksRes.ok) {
           const picksData = await picksRes.json();
@@ -496,7 +616,6 @@
       }
 
       try {
-        // Load full collection
         const recRes = await fetch('records.json');
         if (recRes.ok) {
           allRecords = await recRes.json();
@@ -509,6 +628,7 @@
     }
 
     loadData();
+
   </script>
 
 </body>
