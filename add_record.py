@@ -59,12 +59,15 @@ def add_record():
 
     # If multiple results, let the user pick the right one
     # (e.g. there may be multiple pressings/editions of the same album)
+
     if len(releases) > 1:
         print("\nMultiple releases found — pick the one you own:")
         for i, r in enumerate(releases):
-            year = r.get("date", "????")[:4]
+            year    = r.get("date", "????")[:4]
             country = r.get("country", "??")
-            print(f"  [{i}] {r['title']} ({year}, {country})")
+            format  = r.get("media", [{}])[0].get("format", "unknown format") if r.get("media") else "unknown format"
+            tracks  = r.get("media", [{}])[0].get("track-count", "?") if r.get("media") else "?"
+            print(f"  [{i}] {r['title']} ({year}, {country}) — {format}, {tracks} tracks")
         choice = int(input("Enter number: "))
     else:
         choice = 0
