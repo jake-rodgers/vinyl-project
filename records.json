@@ -10,12 +10,12 @@
   },
   {
     "id": 2,
-    "artist": "Radiohead",
-    "album": "OK Computer",
-    "year": 1997,
+    "artist": "Doechii",
+    "album": "Anxiety",
+    "year": 2025,
     "mbid": "",
-    "cover": "",
-    "tracks": []
+    "cover": "https://i.discogs.com/ex-d9VUdcmm5TUmTg_rnuZVZDNV4w0lzvHvJYy1ln08/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTcy/NzAzLTE3NTMwNDEy/OTQtMTAzMi5qcGVn.jpeg",
+    "tracks": ["Anxiety"]
   },
   {
     "id": 3,
