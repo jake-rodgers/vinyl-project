@@ -15,7 +15,9 @@
     "year": 2025,
     "mbid": "",
     "cover": "https://i.discogs.com/ex-d9VUdcmm5TUmTg_rnuZVZDNV4w0lzvHvJYy1ln08/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTcy/NzAzLTE3NTMwNDEy/OTQtMTAzMi5qcGVn.jpeg",
-    "tracks": ["Anxiety"]
+    "tracks": [
+      "Anxiety"
+    ]
   },
   {
     "id": 3,
@@ -36,6 +38,161 @@
       "Memories",
       "Aug 26",
       "This Is Not the Song I Wrote"
+    ]
+  },
+  {
+    "id": 4,
+    "artist": "Bruno Mars",
+    "album": "The Romantic",
+    "year": "2026",
+    "mbid": "871ceb1b-4b17-423b-b82a-3d20268b0c24",
+    "cover": "https://dn720905.ca.archive.org/0/items/mbid-871ceb1b-4b17-423b-b82a-3d20268b0c24/mbid-871ceb1b-4b17-423b-b82a-3d20268b0c24-44511292581.jpg",
+    "tracks": [
+      "Risk It All",
+      "Cha Cha Cha",
+      "I Just Might",
+      "God Was Showing Off",
+      "Why You Wanna Fight?",
+      "On My Soul",
+      "Something Serious",
+      "Nothing Left",
+      "Dance With Me"
+    ]
+  },
+  {
+    "id": 5,
+    "artist": "Ray Charles",
+    "album": "No one does it like ray charles",
+    "year": "2025",
+    "mbid": "1da4c3e4-96f9-4231-8fce-a79748e7cdef",
+    "cover": "https://dn710208.ca.archive.org/0/items/mbid-1da4c3e4-96f9-4231-8fce-a79748e7cdef/mbid-1da4c3e4-96f9-4231-8fce-a79748e7cdef-44065945107.jpg",
+    "tracks": [
+      "My Baby Don\u2019t Dig Me",
+      "Without Love (There Is Nothing)",
+      "The Brightest Smile in Town",
+      "Hide nor Hair",
+      "My Baby (I Love Her, Yes I Do)",
+      "No One",
+      "Don\u2019t Set Me Free",
+      "Something\u2019s Wrong",
+      "At the Club",
+      "Worried Life Blues (Someday Baby)",
+      "Who You Gonna Love",
+      "My Heart Cries for You"
+    ]
+  },
+  {
+    "id": 6,
+    "artist": "Cory Wong",
+    "album": "Cory & the Wongnotes",
+    "year": "2021",
+    "mbid": "a0876ba1-5a30-4cbf-a2f6-b0ffb39e8728",
+    "cover": "https://i.discogs.com/rX5O7caQbk4P4tNndhxyWlUPb8lu7EK2tdPIIVWXNJo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzEz/NzU1LTE2MjQ5NDg4/MjMtMjU1NS5qcGVn.jpeg",
+    "tracks": [
+      "Cory and The Wongnotes Theme",
+      "Merci",
+      "Heist",
+      "Tiki Hut Strut",
+      "Coming Back Around",
+      "Starfire",
+      "United",
+      "Headin' Down To Bunkers",
+      "Lee",
+      "Bluebird",
+      "Stevie Wonder Medley"
+    ]
+  },
+  {
+    "id": 7,
+    "artist": "Fearless Flyers",
+    "album": "Flyers Live at madison square garden",
+    "year": "2021",
+    "mbid": "3d1f77c4-db52-4a75-9d94-6ff4ac59cf64",
+    "cover": "https://dn721607.ca.archive.org/0/items/mbid-3d1f77c4-db52-4a75-9d94-6ff4ac59cf64/mbid-3d1f77c4-db52-4a75-9d94-6ff4ac59cf64-34579360369.jpg",
+    "tracks": [
+      "Wild Blue Yonder",
+      "Ace of Aces",
+      "Introducing the Fearless Flyers",
+      "The Speedwalker",
+      "Lost My Treble Long Ago",
+      "Flyers Direct",
+      "Swampers",
+      "Barbara",
+      "Bicentennial",
+      "Hero Town",
+      "Simon F15",
+      "Signed Sealed Delivered"
+    ]
+  },
+  {
+    "id": 8,
+    "artist": "Vulfmon",
+    "album": "Dot",
+    "year": "2024",
+    "mbid": "21c24caf-9315-4acd-88a5-68013f146bb4",
+    "cover": "https://dn721605.ca.archive.org/0/items/mbid-21c24caf-9315-4acd-88a5-68013f146bb4/mbid-21c24caf-9315-4acd-88a5-68013f146bb4-42041839853.jpg",
+    "tracks": [
+      "Got to Be Mine",
+      "Letting Things Go",
+      "Tokyo Night",
+      "It Feels Good to Write a Song",
+      "Little Thunder",
+      "Too Hot in L.A. (Vulfmix)",
+      "Surfer Girl",
+      "Nice to You (Little Yacov version)",
+      "Disco Snails",
+      "Hit the Target (Vulfmix)"
+    ]
+  },
+  {
+    "id": 9,
+    "artist": "Vulfpeck",
+    "album": "Sauna",
+    "year": "2022",
+    "mbid": "4642d370-de89-445f-872c-826a09c525ce",
+    "cover": "https://dn710008.ca.archive.org/0/items/mbid-4642d370-de89-445f-872c-826a09c525ce/mbid-4642d370-de89-445f-872c-826a09c525ce-34223483947.jpg",
+    "tracks": [
+      "Sauna"
+    ]
+  },
+  {
+    "id": 10,
+    "artist": "Vulfpeck",
+    "album": "Schvitz",
+    "year": "2023",
+    "mbid": "85dd1a8c-acc5-4ed9-9a9c-0abdf78d2312",
+    "cover": "https://i.discogs.com/--81F8xLirFu7RVAMUyHYlYwGHgQQuOe6IXo10ACSgQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjYz/OTkzLTE2NzI4NTQ3/MzctNDIzNS5qcGVn.jpeg",
+    "tracks": [
+      "Sauna",
+      "Earworm",
+      "New Guru",
+      "All That\u2019s Left of Me Is You",
+      "Simple Step",
+      "In Heaven",
+      "Serve Somebody",
+      "Romanian Drinking Song",
+      "What Did You Mean by Love?",
+      "Miracle"
+    ]
+  },
+  {
+    "id": 11,
+    "artist": "vulfpeck",
+    "album": "thrill of the arts",
+    "year": "2015",
+    "mbid": "c39dae00-554e-467b-a611-519f7457ff79",
+    "cover": "https://i.discogs.com/YU_x0wMLJRLBCVQf72bf8B_8_AinMJU18lXh63xo_tw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Nzc4/OTQtMTQ0NDQxNzI1/MC0yNjIyLmpwZWc.jpeg",
+    "tracks": [
+      "Welcome to Vulf Records",
+      "Back Pocket",
+      "Funky Duck",
+      "Rango II",
+      "Game Winner",
+      "Walkies",
+      "Christmas in L.A.",
+      "Conscious Club (instrumental)",
+      "Smile Meditation",
+      "Guided Smile Meditation"
     ]
   }
 ]
