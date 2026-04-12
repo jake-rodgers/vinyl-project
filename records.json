@@ -804,5 +804,107 @@
       "You're Made That Way",
       "Tonight's the Night (Gonna Be Alright)"
     ]
+  },
+  {
+    "id": 37,
+    "artist": "Glenn Miller",
+    "album": "Glenn Miller Plays Selections From The Glenn Miller Story and Other Hits",
+    "year": "1956",
+    "mbid": "674c4873-11f0-499d-8af1-50b4ba8ec252",
+    "cover": "https://ia800804.us.archive.org/33/items/mbid-674c4873-11f0-499d-8af1-50b4ba8ec252/mbid-674c4873-11f0-499d-8af1-50b4ba8ec252-18100594880.jpg",
+    "tracks": [
+      "Moonlight Serenade",
+      "American Patrol",
+      "Pennsylvania Six\u2010Five Thousand",
+      "In the Mood",
+      "(I\u2019ve Got a Gal in) Kalamazoo",
+      "Boulder Buff",
+      "Tuxedo Junction",
+      "St. Louis Blues",
+      "String of Pearls",
+      "Little Brown Jug",
+      "Farewell Blues",
+      "King Porter Stomp"
+    ]
+  },
+  {
+    "id": 38,
+    "artist": "Glenn Miller",
+    "album": "The Great Glenn Miller and His Orchestra",
+    "year": "1963",
+    "mbid": "7fce5190-bf3a-4d1a-a78f-24890661bbeb",
+    "cover": "https://i.discogs.com/6RM0DSYk8s7KqtVuIwl4kOeIBZ9-MYqc23piWenl-2s/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzEx/MDItMTQ5MDQ5NzEx/Ni04MzYwLmpwZWc.jpeg",
+    "tracks": [
+      "Juke Box Saturday Night",
+      "Moon Love",
+      "Humpty Dumpty Heart",
+      "April Played the Fiddle",
+      "That Old Black Magic",
+      "Moonlight Becomes You",
+      "The Man in the Moon",
+      "The Chestnut Tree (\u2019Neath the Spreading Chestnut Tree)",
+      "So Many Times",
+      "The Cowboy Serenade (While I'm Rollin\u2019 My Last Cigarette)"
+    ]
+  },
+  {
+    "id": 39,
+    "artist": "Olivia Newton-John",
+    "album": "Totally Hot",
+    "year": "1978",
+    "mbid": "0f0c6f7a-2b92-46c2-9332-9e66d499765c",
+    "cover": "https://coverartarchive.org/release/074aa1bb-02dc-4e44-bbdc-022bd48f8d9d/3519971400.jpg",
+    "tracks": [
+      "Please Don't Keep Me Waiting",
+      "Dancin' 'Round and 'Round",
+      "Talk to Me",
+      "Deeper Than the Night",
+      "Borrowed Time",
+      "A Little More Love",
+      "Never Enough",
+      "Totally Hot",
+      "Boats Against the Current",
+      "Gimme Some Lovin'"
+    ]
+  },
+  {
+    "id": 40,
+    "artist": "Leonard Bernstein",
+    "album": "West Side Story",
+    "year": "2008",
+    "mbid": "0f96ee22-e343-47fa-874a-27af8ac3c984",
+    "cover": "https://i.discogs.com/QeEjP0d-L-rW6ycf5ms3bKRI5n7bjnjcLI9UUVDVFeM/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM0/MDcxLTE0OTU1MDIz/ODktMzczNS5qcGVn.jpeg",
+    "tracks": [
+      "Prologue",
+      "Jet Song",
+      "Something's Coming",
+      "The Dance at the Gym",
+      "Maria",
+      "America",
+      "Tonight",
+      "Gee, Officer Krupke",
+      "I Feel Pretty",
+      "One Hand, One Heart",
+      "Tonight (Quintet and Chorus)",
+      "The Rumble",
+      "Somewhere (Ballet)",
+      "Cool",
+      "A Boy Like That / I Have a Love",
+      "Finale"
+    ]
+  },
+  {
+    "id": 41,
+    "artist": "Tchaikovsky",
+    "album": "1812 Festival Overture",
+    "year": "1958",
+    "mbid": "5dea74a7-d0d7-41cf-9cc2-2e7b6b98c552",
+    "cover": "https://dn710307.ca.archive.org/0/items/mbid-5dea74a7-d0d7-41cf-9cc2-2e7b6b98c552/mbid-5dea74a7-d0d7-41cf-9cc2-2e7b6b98c552-3947466660.jpg",
+    "tracks": [
+      "1812 Festival Overture, op. 49",
+      "[commentary]",
+      "[commentary 2]",
+      "Capriccio Italien, op. 45"
+    ]
   }
 ]
