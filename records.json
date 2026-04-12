@@ -906,5 +906,104 @@
       "[commentary 2]",
       "Capriccio Italien, op. 45"
     ]
+  },
+  {
+    "id": 42,
+    "artist": "Claude Hopkins, Pee Wee Erwin, Vic Dickenson, Buster Bailey, Milt Hinton, George Wettling",
+    "album": "The Golden Era Of Dixieland Jazz 1887 - 1937",
+    "year": "1957",
+    "mbid": "",
+    "cover": "https://i.discogs.com/2aqliOCM2DzdIOK2G7Jrenv39lEVXQ46OOysABuv8JU/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzY1/MzgyLTE1MTUwMTYw/MTgtMjEwNi5qcGVn.jpeg",
+    "tracks": [
+      "When The Saints Go Marching In",
+      "Basin Street Blues",	
+      "Struttin' With Some Barbeque",
+      "Clarinet Marmalade",	
+      "Royal Garden Blues",	
+      "Muskrat Ramble",	 
+      "Tin Roof Blues",	
+      "I Would Do Anything For You",	
+      "Birth Of The Blues"
+    ]
+  },
+  {
+    "id": "43",
+    "artist": "Various Artists",
+    "album": "The Big Bands Of The 40s & 50s",
+    "year": "1981",
+    "mbid": "",
+    "cover": "https://i.discogs.com/nB2cOwEI4UTTuhVnraWWUwBdnK37ytDTgx3m11LEKU8/rs:fit/g:sm/q:90/h:416/w:416/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTk5/NjItMTQzNTYyMjIz/My05MzE3LmpwZWc.jpeg",
+    "tracks": [
+      "Chattanooga Choo Choo",	
+	    "You Made Me Love",	
+		  "Satin Doll",
+		  "On A Slow Boat To China",	
+		  "Cherry Pink And Apple Blossom White",	
+		  "Pennsylvania 6-5000",	   
+		  "Song Of India",
+		  "Sentimental Journey",	
+		  "Don't Be That Way",
+		  "Heartaches",
+		  "Sunrise Serenade",	
+		  "Stompin' At The Savoy"
+    ]
+  },
+  {
+    "id": "44",
+    "artist": "Glenn Miller and His Orchestra",
+    "album": "Original Film Sound Tracks",
+    "year": "1958",
+    "mbid": "",
+    "cover": "https://i.discogs.com/zDOL6OX-KLV6RgWCrEvdCtGVuvYDWlb5l1ZlS1pRDDw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTQ1/NzEtMTQyMTIzNTk2/OC02NTQzLmpwZWc.jpeg",
+    "tracks": [
+      "In the Mood",
+      "Boom Shot",
+      "Serenade In Blue",
+      "Bigle Call Rag",
+      "Chattanooga Choo Choo",
+      "You Say The Sweetest Things, Baby",
+      "It Happened In Sun Valley",
+      "Measure For Measure",
+      "Moonlight Sonata",
+      "I've Got A Gal In Kalamazoo",
+      "At Last",
+      "Sun Valley Jump",
+      "That's Sabotage",
+      "American Patrol",
+      "The Spirit Is Willing",
+      "People Like You And Me",
+      "I Know Why",
+      "Moonlight Serenade"
+    ]
+  },
+  {
+    "id": "45",
+    "artist": "Glenn Miller and The Army Air Force Band",
+    "album": "This Is Glenn Miller And The Army Air Force Band",
+    "year": "1973",
+    "mbid": "",
+    "cover": "https://i.discogs.com/RnPZQtfihHdklyzHp1iLYOKzZ9jQzy3g2wsFRpXl3G8/rs:fit/g:sm/q:90/h:483/w:498/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Nzc3/MTMtMTM4NDQ2Njk5/OS03MDc1LmpwZWc.jpeg",
+    "tracks": [
+      "Flying Home", 
+      "Holiday For Strings",
+      "Sun Valley Jump",
+      "Farewell Blues",
+      "Everybody Loves My Baby (But My Baby Don't Love Nobody But Me)",
+		  "St. Louis Blues March",
+		  "A Lovely Way To Spend An Evening",
+      "Anvil Chorus (From \"Il Trovatore\")",
+      "I Love You",
+		  "Begin The Beguine",
+		  "Star Dust",
+		  "Tuxedo Junction",
+		  "Blues In My Heart",
+		  "Song Of The Volga Boatmen (Russian Folk Song)",
+		  "Stormy Weather (Keeps Raining All The Time)",
+		  "Juke Box Saturday Night",
+		  "In The Mood",
+		  "Poinciana",
+		  "Mission To Moscow",
+		  "Tail-End Charlie"
+    ]
   }
 ]
