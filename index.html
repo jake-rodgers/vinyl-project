@@ -240,10 +240,44 @@
       color: var(--ink-light);
     }
 
+    /* ── Sort buttons ── */
+    .sort-buttons {
+      display: flex;
+      gap: 0.4rem;
+      flex-wrap: wrap;
+    }
+
+    .sort-btn {
+      padding: 0.5rem 0.85rem;
+      font-family: var(--sans);
+      font-size: 0.75rem;
+      font-weight: 500;
+      letter-spacing: 0.05em;
+      color: var(--ink-mid);
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      cursor: pointer;
+      transition: all 0.15s;
+      white-space: nowrap;
+    }
+
+    .sort-btn:hover {
+      border-color: var(--ink-mid);
+      color: var(--ink);
+    }
+
+    .sort-btn.active {
+      background: var(--ink);
+      border-color: var(--ink);
+      color: var(--surface);
+    }
+
     .collection-count {
       font-size: 0.8rem;
       color: var(--ink-light);
       white-space: nowrap;
+      margin-left: auto;
     }
 
     .collection-grid {
@@ -458,6 +492,12 @@
       <h2 class="section-title">Full Collection</h2>
       <div class="collection-controls">
         <input type="search" id="search" placeholder="Search artist or album…" />
+        <div class="sort-buttons">
+          <button class="sort-btn active" data-sort="artist">Artist A–Z</button>
+          <button class="sort-btn" data-sort="album">Album A–Z</button>
+          <button class="sort-btn" data-sort="year-asc">Year ↑</button>
+          <button class="sort-btn" data-sort="year-desc">Year ↓</button>
+        </div>
         <span class="collection-count" id="collection-count"></span>
       </div>
       <div class="collection-grid" id="collection-grid">
@@ -480,6 +520,22 @@
   </div>
 
   <script>
+
+    // ── State ─────────────────────────────────────────────────────────────────
+
+    let allRecords  = [];
+    let currentSort = 'artist';
+
+    // ── Sort ──────────────────────────────────────────────────────────────────
+
+    function sortRecords(records, method) {
+      const copy = [...records];
+      if (method === 'artist')    return copy.sort((a, b) => a.artist.localeCompare(b.artist));
+      if (method === 'album')     return copy.sort((a, b) => a.album.localeCompare(b.album));
+      if (method === 'year-asc')  return copy.sort((a, b) => (a.year || 0) - (b.year || 0));
+      if (method === 'year-desc') return copy.sort((a, b) => (b.year || 0) - (a.year || 0));
+      return copy;
+    }
 
     // ── Render picks ──────────────────────────────────────────────────────────
 
@@ -518,10 +574,8 @@
 
     // ── Render collection ─────────────────────────────────────────────────────
 
-    let allRecords = [];
-
     function renderCollection(records) {
-      const grid = document.getElementById('collection-grid');
+      const grid  = document.getElementById('collection-grid');
       const count = document.getElementById('collection-count');
 
       count.textContent = `${records.length} record${records.length !== 1 ? 's' : ''}`;
@@ -531,7 +585,7 @@
         return;
       }
 
-      const sorted = [...records].sort((a, b) => a.artist.localeCompare(b.artist));
+      const sorted = sortRecords(records, currentSort);
 
       grid.innerHTML = sorted.map(r => {
         const coverHTML = r.cover
@@ -547,6 +601,37 @@
           </div>`;
       }).join('');
     }
+
+    // ── Sort button listeners ─────────────────────────────────────────────────
+
+    document.querySelectorAll('.sort-btn').forEach(btn => {
+      btn.addEventListener('click', function () {
+        document.querySelectorAll('.sort-btn').forEach(b => b.classList.remove('active'));
+        this.classList.add('active');
+        currentSort = this.dataset.sort;
+        const q = document.getElementById('search').value.toLowerCase().trim();
+        const filtered = q
+          ? allRecords.filter(r =>
+              r.artist.toLowerCase().includes(q) ||
+              r.album.toLowerCase().includes(q)
+            )
+          : allRecords;
+        renderCollection(filtered);
+      });
+    });
+
+    // ── Search ────────────────────────────────────────────────────────────────
+
+    document.getElementById('search').addEventListener('input', function () {
+      const q = this.value.toLowerCase().trim();
+      const filtered = q
+        ? allRecords.filter(r =>
+            r.artist.toLowerCase().includes(q) ||
+            r.album.toLowerCase().includes(q)
+          )
+        : allRecords;
+      renderCollection(filtered);
+    });
 
     // ── Modal ─────────────────────────────────────────────────────────────────
 
@@ -580,24 +665,11 @@
     }
 
     document.getElementById('modal-close').addEventListener('click', closeModal);
-    document.getElementById('modal-overlay').addEventListener('click', function(e) {
+    document.getElementById('modal-overlay').addEventListener('click', function (e) {
       if (e.target === this) closeModal();
     });
-    document.addEventListener('keydown', function(e) {
+    document.addEventListener('keydown', function (e) {
       if (e.key === 'Escape') closeModal();
-    });
-
-    // ── Search ────────────────────────────────────────────────────────────────
-
-    document.getElementById('search').addEventListener('input', function () {
-      const q = this.value.toLowerCase().trim();
-      const filtered = q
-        ? allRecords.filter(r =>
-            r.artist.toLowerCase().includes(q) ||
-            r.album.toLowerCase().includes(q)
-          )
-        : allRecords;
-      renderCollection(filtered);
     });
 
     // ── Load data ─────────────────────────────────────────────────────────────
