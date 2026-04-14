@@ -413,6 +413,13 @@
       margin-bottom: 1.25rem;
     }
 
+    #modal-content .modal-genre {
+      font-size: 0.78rem;
+      color: var(--ink-mid);
+      margin-bottom: 1.25rem;
+      letter-spacing: 0.03em;
+    }
+
     #modal-content .modal-tracks {
       list-style: none;
       border-top: 1px solid var(--border);
@@ -566,6 +573,7 @@
               <p class="card-artist">${r.artist}</p>
               <h3 class="card-album">${r.album}</h3>
               <p class="card-year">${r.year}</p>
+              ${r.genre && r.genre.length ? `<p class="card-genre">${r.genre.join(' · ')}</p>` : ''}
               ${tracksHTML ? `<ol class="card-tracks">${tracksHTML}</ol>` : ''}
             </div>
           </article>`;
@@ -652,6 +660,7 @@
         <p class="modal-artist">${record.artist}</p>
         <h2 class="modal-album">${record.album}</h2>
         <p class="modal-year">${record.year}</p>
+        ${record.genre && record.genre.length ? `<p class="modal-genre">${record.genre.join(' · ')}</p>` : ''}
         ${tracksHTML ? `<ol class="modal-tracks">${tracksHTML}</ol>` : ''}
       `;
 
