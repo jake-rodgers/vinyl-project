@@ -17,6 +17,10 @@
       "Brooklyn Bop",
       "Flyers Direct",
       "Lunchtime"
+    ],
+    "genre": [
+      "Jazz",
+      "Jazz-Funk"
     ]
   },
   {
@@ -28,6 +32,10 @@
     "cover": "https://i.discogs.com/ex-d9VUdcmm5TUmTg_rnuZVZDNV4w0lzvHvJYy1ln08/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTcy/NzAzLTE3NTMwNDEy/OTQtMTAzMi5qcGVn.jpeg",
     "tracks": [
       "Anxiety"
+    ],
+    "genre": [
+      "Hip Hop",
+      "Blues"
     ]
   },
   {
@@ -49,6 +57,11 @@
       "Memories",
       "Aug 26",
       "This Is Not the Song I Wrote"
+    ],
+    "genre": [
+      "Funk / Soul",
+      "Funk",
+      "Neo Soul"
     ]
   },
   {
@@ -68,6 +81,9 @@
       "Something Serious",
       "Nothing Left",
       "Dance With Me"
+    ],
+    "genre": [
+      "Pop"
     ]
   },
   {
@@ -90,6 +106,11 @@
       "Worried Life Blues (Someday Baby)",
       "Who You Gonna Love",
       "My Heart Cries for You"
+    ],
+    "genre": [
+      "Funk / Soul",
+      "Pop",
+      "Rhythm & Blues"
     ]
   },
   {
@@ -111,6 +132,10 @@
       "Lee",
       "Bluebird",
       "Stevie Wonder Medley"
+    ],
+    "genre": [
+      "Funk / Soul",
+      "Funk"
     ]
   },
   {
@@ -133,6 +158,10 @@
       "Hero Town",
       "Simon F15",
       "Signed Sealed Delivered"
+    ],
+    "genre": [
+      "Funk / Soul",
+      "Funk"
     ]
   },
   {
@@ -153,6 +182,10 @@
       "Nice to You (Little Yacov version)",
       "Disco Snails",
       "Hit the Target (Vulfmix)"
+    ],
+    "genre": [
+      "Funk / Soul",
+      "Pop"
     ]
   },
   {
@@ -173,6 +206,10 @@
       "Conscious Club (instrumental)",
       "Smile Meditation",
       "Guided Smile Meditation"
+    ],
+    "genre": [
+      "Funk / Soul",
+      "Funk"
     ]
   },
   {
@@ -194,6 +231,11 @@
       "Half\u2010Penny, Two\u2010Penny",
       "A.D. 1958",
       "State Street Sadie"
+    ],
+    "genre": [
+      "Rock",
+      "Pop Rock",
+      "Classic Rock"
     ]
   },
   {
@@ -214,6 +256,10 @@
       "Love Comes From Unexpected Places",
       "New York State of Mind",
       "Lullaby for Myself"
+    ],
+    "genre": [
+      "Rock",
+      "Soft Rock"
     ]
   },
   {
@@ -226,6 +272,9 @@
     "tracks": [
       "Violin Concerto in E minor, op. 64 (Part Two)",
       "Violin Concerto in E minor, op. 64 (Part Four)"
+    ],
+    "genre": [
+      "Classical"
     ]
   },
   {
@@ -248,6 +297,11 @@
       "Calm Before the Storm",
       "Modern Girl",
       "No One Ever Knows"
+    ],
+    "genre": [
+      "Rock",
+      "Soft Rock",
+      "Pop Rock"
     ]
   },
   {
@@ -268,6 +322,16 @@
       "When I'm Sixty-four",
       "Good Day Sunshine",
       "The End of the World"
+    ],
+    "genre": [
+      "Jazz",
+      "Pop",
+      "Stage & Screen",
+      "Easy Listening",
+      "Chanson",
+      "Light Music",
+      "Ballad",
+      "Theme"
     ]
   },
   {
@@ -286,6 +350,10 @@
       "Palladium",
       "The Juggler",
       "Havona"
+    ],
+    "genre": [
+      "Jazz",
+      "Fusion"
     ]
   },
   {
@@ -312,6 +380,13 @@
       "Box of Stars, Pt. 1",
       "Box of Stars, Pt. 2",
       "World O World"
+    ],
+    "genre": [
+      "Jazz",
+      "Rock",
+      "Funk / Soul",
+      "Pop",
+      "Folk, World, & Country"
     ]
   },
   {
@@ -339,6 +414,10 @@
       "Alive",
       "Heaven",
       "Saturday Nights"
+    ],
+    "genre": [
+      "Funk / Soul",
+      "Contemporary R&B"
     ]
   },
   {
@@ -363,6 +442,12 @@
       "listen before i go",
       "i love you",
       "goodbye"
+    ],
+    "genre": [
+      "Electronic",
+      "Pop",
+      "Indie Pop",
+      "Alt-Pop"
     ]
   },
   {
@@ -379,6 +464,11 @@
       "Echano",
       "Chase the Clouds Away",
       "Soft"
+    ],
+    "genre": [
+      "Jazz",
+      "Blues",
+      "Easy Listening"
     ]
   },
   {
@@ -415,6 +505,13 @@
       "Put Your Dreams Away",
       "Just in Time",
       "Chicago"
+    ],
+    "genre": [
+      "Jazz",
+      "Pop",
+      "Vocal",
+      "Ballad",
+      "Swing"
     ]
   },
   {
@@ -445,6 +542,10 @@
       "To Know You Is to Love You (1969)",
       "Just as Much as Ever (1966)",
       "Let's Kiss and Make Up (1962)"
+    ],
+    "genre": [
+      "Pop",
+      "Vocal"
     ]
   },
   {
@@ -476,7 +577,8 @@
       "'Round About Midnight",
       "Epistrophy",
       "Tin Tin Deo"
-    ]
+    ],
+    "genre": []
   },
   {
     "id": 23,
@@ -490,6 +592,10 @@
       "Joy and Pain (World to World remix)",
       "Joy and Pain (No\u2010Rap\u2010Attack\u2010Dub\u2010Track)",
       "Joy and Pain (Rob\u2010A\u2010Pella)"
+    ],
+    "genre": [
+      "Hip Hop",
+      "Pop Rap"
     ]
   },
   {
@@ -520,6 +626,14 @@
       "Overjoyed",
       "Skeletons",
       "So What the Fuss"
+    ],
+    "genre": [
+      "Funk / Soul",
+      "Pop",
+      "Vocal",
+      "Soul",
+      "Funk",
+      "Disco"
     ]
   },
   {
@@ -535,6 +649,12 @@
       "Flesh & Bone",
       "Talk It Up",
       "Kick It to Me"
+    ],
+    "genre": [
+      "Jazz",
+      "Rock",
+      "Blues",
+      "Swing"
     ]
   },
   {
@@ -555,6 +675,12 @@
       "Shining Star",
       "Reasons",
       "Sing a Song"
+    ],
+    "genre": [
+      "Funk / Soul",
+      "Funk",
+      "Soul",
+      "Disco"
     ]
   },
   {
@@ -597,7 +723,8 @@
       "Messiah: 47. Behold, I tell you a mystery",
       "Messiah: 48. The trumpet shall sound",
       "Messiah: 53. Worthy is the Lamb"
-    ]
+    ],
+    "genre": []
   },
   {
     "id": 28,
@@ -632,6 +759,11 @@
       "Don\u2019t Get Around Much Anymore",
       "Goin\u2019 Up",
       "Mood Indigo"
+    ],
+    "genre": [
+      "Jazz",
+      "Big Band",
+      "Swing"
     ]
   },
   {
@@ -652,6 +784,11 @@
       "Wee Wee",
       "Mister Hip",
       "Headache"
+    ],
+    "genre": [
+      "Funk / Soul",
+      "Rhythm & Blues",
+      "Soul"
     ]
   },
   {
@@ -672,6 +809,13 @@
       "Skate",
       "Love\u2019s Train",
       "Blast Off"
+    ],
+    "genre": [
+      "Funk / Soul",
+      "Contemporary R&B",
+      "Soul",
+      "Funk",
+      "Disco"
     ]
   },
   {
@@ -690,7 +834,8 @@
       "Tannh\u00e4user: Act III: Pigrim's Chorus",
       "Tannh\u00e4user: Act III: Song to the Evening Star",
       "Die Walk\u00fcre: Act III: Ride of the Valkyries"
-    ]
+    ],
+    "genre": []
   },
   {
     "id": 32,
@@ -718,6 +863,10 @@
       "Sixteen Going on Seventeen (Reprise)",
       "Edelweiss",
       "Climb Ev'ry Mountain (Reprise)"
+    ],
+    "genre": [
+      "Stage & Screen",
+      "Musical"
     ]
   },
   {
@@ -738,7 +887,8 @@
       "Anitra's Dance",
       "Habenera",
       "Swingin' Mood"
-    ]
+    ],
+    "genre": []
   },
   {
     "id": 34,
@@ -752,6 +902,10 @@
       "Old Timers Polka Favorites",
       "Tribute to the Bands",
       "Versatones Greatest Hits"
+    ],
+    "genre": [
+      "Folk, World, & Country",
+      "Polka"
     ]
   },
   {
@@ -766,7 +920,8 @@
       "Fall feat. Kenny Watson",
       "Speak No Evil",
       "Greyhound (mvmt i ii iii)"
-    ]
+    ],
+    "genre": []
   },
   {
     "id": 36,
@@ -803,7 +958,8 @@
       "Call of the Wild",
       "You're Made That Way",
       "Tonight's the Night (Gonna Be Alright)"
-    ]
+    ],
+    "genre": []
   },
   {
     "id": 37,
@@ -825,6 +981,11 @@
       "Little Brown Jug",
       "Farewell Blues",
       "King Porter Stomp"
+    ],
+    "genre": [
+      "Jazz",
+      "Big Band",
+      "Swing"
     ]
   },
   {
@@ -845,6 +1006,9 @@
       "The Chestnut Tree (\u2019Neath the Spreading Chestnut Tree)",
       "So Many Times",
       "The Cowboy Serenade (While I'm Rollin\u2019 My Last Cigarette)"
+    ],
+    "genre": [
+      "Jazz"
     ]
   },
   {
@@ -865,6 +1029,12 @@
       "Totally Hot",
       "Boats Against the Current",
       "Gimme Some Lovin'"
+    ],
+    "genre": [
+      "Electronic",
+      "Rock",
+      "Pop Rock",
+      "Synth-pop"
     ]
   },
   {
@@ -891,6 +1061,9 @@
       "Cool",
       "A Boy Like That / I Have a Love",
       "Finale"
+    ],
+    "genre": [
+      "Stage & Screen"
     ]
   },
   {
@@ -905,6 +1078,10 @@
       "[commentary]",
       "[commentary 2]",
       "Capriccio Italien, op. 45"
+    ],
+    "genre": [
+      "Classical",
+      "Romantic"
     ]
   },
   {
@@ -924,6 +1101,10 @@
       "Tin Roof Blues",
       "I Would Do Anything For You",
       "Birth Of The Blues"
+    ],
+    "genre": [
+      "Jazz",
+      "Dixieland"
     ]
   },
   {
@@ -946,7 +1127,8 @@
       "Heartaches",
       "Sunrise Serenade",
       "Stompin' At The Savoy"
-    ]
+    ],
+    "genre": []
   },
   {
     "id": 44,
@@ -974,6 +1156,12 @@
       "People Like You And Me",
       "I Know Why",
       "Moonlight Serenade"
+    ],
+    "genre": [
+      "Jazz",
+      "Stage & Screen",
+      "Swing",
+      "Big Band"
     ]
   },
   {
@@ -1004,6 +1192,10 @@
       "Poinciana",
       "Mission To Moscow",
       "Tail-End Charlie"
+    ],
+    "genre": [
+      "Jazz",
+      "Big Band"
     ]
   },
   {
@@ -1026,6 +1218,12 @@
       "Love the World Away",
       "Every Time Two Fools Collide",
       "Long Arm of the Law"
+    ],
+    "genre": [
+      "Pop",
+      "Folk, World, & Country",
+      "Country",
+      "Ballad"
     ]
   },
   {
@@ -1038,16 +1236,19 @@
     "tracks": [
       "The Way You Do The Things You Do",
       "My Girl",
-		  "Ain't Too Proud To Beg",
-		  "Don't Look Back",
-		  "Get Ready",
-		  "Beauty Is Only Skin Deep",
-		  "Since I Lost My Baby",
-		  "The Girl's Alright With Me",
-		  "My Baby",
-		  "It's Growing",
-		  "I'll Be In Trouble",
-		  "Girl (Why You Wanna' Make Me Blue)"
+      "Ain't Too Proud To Beg",
+      "Don't Look Back",
+      "Get Ready",
+      "Beauty Is Only Skin Deep",
+      "Since I Lost My Baby",
+      "The Girl's Alright With Me",
+      "My Baby",
+      "It's Growing",
+      "I'll Be In Trouble",
+      "Girl (Why You Wanna' Make Me Blue)"
+    ],
+    "genre": [
+      "Funk / Soul"
     ]
   }
 ]
