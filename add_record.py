@@ -6,6 +6,15 @@ import urllib.parse
 from pathlib import Path
 
 RECORDS_FILE = "records.json"
+DISCOGS_TOKEN   = "HmwIRxGUHIDGuTACxNCXuFaZWKsiDTEDshSCoUdi"   # paste your token here
+ 
+HEADERS_MB      = {"User-Agent": "VinylDatabase/1.0 (your@email.com)"}
+HEADERS_DISCOGS = {
+    "User-Agent": "VinylDatabase/1.0",
+    "Authorization": f"Discogs token={DISCOGS_TOKEN}"
+}
+
+
 
 def fetch_mbid(artist, album):
     query = urllib.parse.urlencode({
@@ -46,6 +55,33 @@ def fetch_tracklist(mbid):
             tracks.append(track["title"])
     return tracks
 
+def fetch_genre_for_record(artist, album):
+    """Fetch genre tags from Discogs for a given artist + album."""
+    query = urllib.parse.urlencode({
+        "artist":        artist,
+        "release_title": album,
+        "type":          "release",
+        "per_page":      3
+    })
+    url = f"https://api.discogs.com/database/search?{query}"
+    req = urllib.request.Request(url, headers=HEADERS_DISCOGS)
+    try:
+        with urllib.request.urlopen(req) as r:
+            data = json.loads(r.read())
+        results = data.get("results", [])
+        if not results:
+            return []
+        genres = []
+        for tag in results[0].get("genre", []):
+            if tag not in genres:
+                genres.append(tag)
+        for tag in results[0].get("style", []):
+            if tag not in genres:
+                genres.append(tag)
+        return genres
+    except Exception:
+        return []
+
 def add_record():
     artist = input("Artist name: ").strip()
     album = input("Album name: ").strip()
@@ -83,6 +119,14 @@ def add_record():
     tracks = fetch_tracklist(mbid)
     time.sleep(1)
 
+    print("Fetching genre from Discogs...")
+    time.sleep(1)
+    genre = fetch_genre_for_record(artist, album)
+    if genre:
+        print(f"  Found: {', '.join(genre)}")
+    else:
+        print("  No genre found — leaving blank")
+
     print("Fetching cover art...")
     cover_url = fetch_cover_url(mbid)
     if not cover_url:
@@ -99,7 +143,8 @@ def add_record():
         "year": year,
         "mbid": mbid,
         "cover": cover_url,
-        "tracks": tracks
+        "tracks": tracks,
+        "genre": genre
     }
 
     records.append(new_record)
