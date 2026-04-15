@@ -1250,5 +1250,45 @@
     "genre": [
       "Funk / Soul"
     ]
+  },
+  {
+    "id": 48,
+    "artist": "Vulfpeck",
+    "album": "MSG II",
+    "year": "2025",
+    "mbid": "fcc5a797-b054-453d-8617-494ca0b17c3d",
+    "cover": "https://dn721800.ca.archive.org/0/items/mbid-fcc5a797-b054-453d-8617-494ca0b17c3d/mbid-fcc5a797-b054-453d-8617-494ca0b17c3d-44064490641.jpg",
+    "tracks": [
+      "Contrapunctus I",
+      "Big Dipper",
+      "Matter of Time",
+      "In Real Life",
+      "Sauna",
+      "Lonely Town",
+      "Tender Defender",
+      "Memories",
+      "1612",
+      "Simple Step",
+      "3 on E",
+      "Tokyo Night",
+      "My First Car",
+      "Simply Beautiful",
+      "Movin' Out",
+      "Jealous Guy",
+      "Baby I Don't Know Oh Oh",
+      "Can You Tell",
+      "LAX",
+      "This Is Not the Song I Wrote",
+      "New Beastly",
+      "Wait for the Moment",
+      "Back Pocket",
+      "Dean Town"
+    ],
+    "genre": [
+      "Funk / Soul",
+      "Neo Soul",
+      "Funk",
+      "Soul"
+    ]
   }
 ]
