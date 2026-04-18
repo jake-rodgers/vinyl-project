@@ -1318,5 +1318,75 @@
       "Rhythm & Blues",
       "Soul"
     ]
+  },
+  {
+    "id": 50,
+    "artist": "Chuck Mangione",
+    "album": "Fun and Games",
+    "year": "1979",
+    "mbid": "adb01891-6712-4029-aa36-5c5a15d09ed0",
+    "cover": "https://dn711108.ca.archive.org/0/items/mbid-adb01891-6712-4029-aa36-5c5a15d09ed0/mbid-adb01891-6712-4029-aa36-5c5a15d09ed0-4678302970.jpg",
+    "tracks": [
+      "Give It All You Got",
+      "You're the Best There Is",
+      "Pi\u00f1a Colada",
+      "I Never Missed Someone Before",
+      "Give It All You Got, but Slowly",
+      "Fun and Games"
+    ],
+    "genre": [
+      "Jazz",
+      "Jazz-Rock"
+    ]
+  },
+  {
+    "id": 51,
+    "artist": "Various Artists",
+    "album": "The Big Band Salute",
+    "year": "1980",
+    "mbid": "",
+    "cover": "https://i.discogs.com/pusrRme8CG6C1CZ8ieJuhgs_yGPTC78KoUPru-xXI_Q/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1ODc0/NTctMTQ4MzIxNjQ0/OS00MTIyLmpwZWc.jpeg",
+    "tracks": [
+      "Let\u2019ss Dance",
+      "Woodchopper\u2019ss Ball",
+      "Cherokee",
+      "Begin The Beguine",
+      "Caravan",
+      "A Tisket, A Tasket",
+      "St. Louis Blues",
+      "Honeysuckle Rose",
+      "Opus #1",
+      "How High The Moon",
+      "Body and Soul",
+      "One O\u2019sClock Jump"
+    ],
+    "genre": [
+      "Jazz",
+      "Big Band"
+    ]
+  },
+  {
+    "id": 52,
+    "artist": "Tony Martin",
+    "album": "Tony Martin — Collectibles",
+    "year": "1982",
+    "mbid": "",
+    "cover": "https://i.discogs.com/7bvs6M7gw6om2w8FfjQjExFyMGBLovQg93Fv6x-TMY4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNTEw/OTYtMTQ1NDE5MzI3/OS00ODc1LmpwZWc.jpeg",
+    "tracks": [
+      "Begin The Beguine",
+      "For Every Man There\u2019s A Women",
+      "September Song",
+      "South Of The Border",
+      "To Each His Own",
+      "Kiss Of Fire",
+      "Intermezzo",
+      "Tonight We Love",
+      "There\u2019s No Tomorrow",
+      "(When We Are Dancing) I Get Ideas"
+    ],
+    "genre": [
+      "Pop",
+      "Vocal"
+    ]
   }
 ]
