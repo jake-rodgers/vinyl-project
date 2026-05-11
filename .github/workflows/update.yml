@@ -7,6 +7,9 @@ on:
     # - cron: '0 9 * * 1'
   workflow_dispatch:       # Allows you to trigger this manually from the Actions tab
 
+permissions:
+  contents: write          # Allows the bot to commit and push back to the repo
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -14,11 +17,13 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.13'
 
       - name: Run generate.py
         run: python generate.py
