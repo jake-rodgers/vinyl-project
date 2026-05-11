@@ -1,67 +1,87 @@
 {
-  "updated": "April 09, 2026",
+  "updated": "May 11, 2026",
   "picks": [
     {
-      "id": 13,
-      "artist": "Sheena Easton",
-      "album": "Take My Time",
-      "year": "1981",
-      "mbid": "4938eac0-79c5-4c36-8bab-69e30a440df6",
-      "cover": "https://dn710703.ca.archive.org/0/items/mbid-4938eac0-79c5-4c36-8bab-69e30a440df6/mbid-4938eac0-79c5-4c36-8bab-69e30a440df6-22207202273.jpg",
+      "id": 3,
+      "artist": "Vulfpeck",
+      "album": "Clarity of Cal",
+      "year": "2025",
+      "mbid": "a2b93024-d1be-4309-9f5d-547f0603fed6",
+      "cover": "https://dn710706.ca.archive.org/0/items/mbid-a2b93024-d1be-4309-9f5d-547f0603fed6/mbid-a2b93024-d1be-4309-9f5d-547f0603fed6-41356521192.jpg",
       "tracks": [
-        "Don't Send Flowers",
-        "Cry",
-        "Take My Time",
-        "When He Shines",
-        "One Man Woman",
-        "Prisoner",
-        "9 to 5",
-        "So Much in Love",
-        "Voice on the Radio",
-        "Calm Before the Storm",
-        "Modern Girl",
-        "No One Ever Knows"
+        "Big Dipper",
+        "Matter of Time",
+        "Can You Tell",
+        "In Real Life",
+        "Tender Defender",
+        "New Beastly",
+        "La Gioconda",
+        "The Heist",
+        "Memories",
+        "Aug 26",
+        "This Is Not the Song I Wrote"
+      ],
+      "genre": [
+        "Funk / Soul",
+        "Funk",
+        "Neo Soul"
       ]
     },
     {
-      "id": 33,
-      "artist": "Members of the Glenn Miller Orchestra",
-      "album": "Members of the Glenn Miller Orchestra Play A Tribute to Glenn Miller",
+      "id": 11,
+      "artist": "Streisand",
+      "album": "Superman",
+      "year": "1977",
+      "mbid": "672e4813-c3f5-3d78-a56e-1515c8674350",
+      "cover": "https://dn711309.ca.archive.org/0/items/mbid-672e4813-c3f5-3d78-a56e-1515c8674350/mbid-672e4813-c3f5-3d78-a56e-1515c8674350-1827713141.jpg",
+      "tracks": [
+        "Superman",
+        "Don\u2019t Believe What You Read",
+        "Baby Me Baby",
+        "I Found You Love",
+        "Answer Me",
+        "My Heart Belongs to Me",
+        "Cabin Fever",
+        "Love Comes From Unexpected Places",
+        "New York State of Mind",
+        "Lullaby for Myself"
+      ],
+      "genre": [
+        "Rock",
+        "Soft Rock"
+      ]
+    },
+    {
+      "id": 22,
+      "artist": "Various Artists",
+      "album": "Blue Note's Three Decades of Jazz - Volume 1 - 1939 - 1949",
       "year": "",
-      "mbid": "",
-      "cover": "https://jake-rodgers.github.io/vinyl-project/images/glennmiller_vinyl.jpeg",
+      "mbid": "5a1479de-9804-4fb3-8154-0294984dd904",
+      "cover": "https://dn720709.ca.archive.org/0/items/mbid-5a1479de-9804-4fb3-8154-0294984dd904/mbid-5a1479de-9804-4fb3-8154-0294984dd904-44164237586.jpg",
       "tracks": [
-        "Anvil Chorus",
-        "Kalamazoo",
-        "Song of the Volga Boatmen",
-        "Sunrise Serenade",
-        "Londonderry Air",
-        "Chatanooga Choo Choo",
-        "Under the Double Eagle",
-        "Anitra's Dance",
-        "Habenera",
-        "Swingin' Mood"
-      ]
-    },
-    {
-      "id": 1,
-      "artist": "Cory Wong",
-      "album": "Live at Montreux Jazz Fest",
-      "year": 2025,
-      "mbid": "",
-      "cover": "https://i.discogs.com/iiWuY9ofsCWXeJGWPXBP7aw883KVyWeMYbPlC0cpchM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDM3/NDU2LTE3NjczNTgz/NTgtNDA5Ny5qcGVn.jpeg",
-      "tracks": [
-        "Assassin",
-        "Welcome 2 Minneapolis",
-        "Bluebird",
-        "Team Sports",
-        "Let's Go",
-        "Meditation",
-        "St. Paul",
-        "Brooklyn Bop",
-        "Flyers Direct",
-        "Lunchtime"
-      ]
+        "Boogie Woogie Stomp",
+        "Port of Harlem Blues",
+        "Summertime",
+        "The Father's Getaway",
+        "Honky Tonk Train Blues",
+        "Profoundly Blue",
+        "Climax Rag",
+        "Milk Cow Blues",
+        "Mule Walk",
+        "Seein' Red",
+        "After You've Gone",
+        "The Call of the Blues",
+        "Maple Leaf Rag",
+        "Blue Horizon",
+        "If I Had You",
+        "Limehouse Blues",
+        "Milenberg Joys",
+        "Dameronia",
+        "'Round About Midnight",
+        "Epistrophy",
+        "Tin Tin Deo"
+      ],
+      "genre": []
     }
   ]
 }
