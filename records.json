@@ -1368,7 +1368,7 @@
   {
     "id": 52,
     "artist": "Tony Martin",
-    "album": "Tony Martin — Collectibles",
+    "album": "Tony Martin \u00e2\u20ac\u201d Collectibles",
     "year": "1982",
     "mbid": "",
     "cover": "https://i.discogs.com/7bvs6M7gw6om2w8FfjQjExFyMGBLovQg93Fv6x-TMY4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNTEw/OTYtMTQ1NDE5MzI3/OS00ODc1LmpwZWc.jpeg",
@@ -1387,6 +1387,157 @@
     "genre": [
       "Pop",
       "Vocal"
+    ]
+  },
+  {
+    "id": 53,
+    "artist": "Carpenters",
+    "album": "A Song For You",
+    "year": "1972",
+    "mbid": "a9bbd151-04a1-413e-ba9d-417484218032",
+    "cover": "https://dn710806.ca.archive.org/0/items/mbid-a9bbd151-04a1-413e-ba9d-417484218032/mbid-a9bbd151-04a1-413e-ba9d-417484218032-11193061340.jpg",
+    "tracks": [
+      "A Song for You",
+      "Top of the World",
+      "Hurting Each Other",
+      "It's Going to Take Some Time",
+      "Goodbye to Love",
+      "Intermission",
+      "Bless the Beasts and Children",
+      "Flat Baroque",
+      "Piano Picker",
+      "I Won't Last a Day Without You",
+      "Crystal Lullaby",
+      "Road Ode",
+      "A Song for You (reprise)"
+    ],
+    "genre": [
+      "Rock",
+      "Pop",
+      "Folk, World, & Country",
+      "Pop Rock"
+    ]
+  },
+  {
+    "id": 54,
+    "artist": "Art Tatum",
+    "album": "Art Tatum Legacy",
+    "year": "1974",
+    "mbid": "86a9095c-9199-445b-9826-5f9c4c05204e",
+    "cover": "https://i.discogs.com/7L1M9QHVu9MPnopsiiBJCIj4n9QFx4zEP0jidXo2cAQ/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzE5/ODMtMTc1MDE2MTI1/MS04Nzk5LmpwZWc.jpeg",
+    "tracks": [
+      "I Got a Right to Sing the Blues",
+      "Tea for Two",
+      "Sweet Emaline, My Gal",
+      "Back Home Again in Indiana",
+      "I Can't Give You Anything but Love",
+      "On the Sunny Side of the Street",
+      "Can't We Befriends",
+      "Day In, Day Out",
+      "Limehouse Blues",
+      "Fine and Dandy",
+      "Among My Souvenirs"
+    ],
+    "genre": [
+      "Jazz"
+    ]
+  },
+  {
+    "id": 55,
+    "artist": "Carpenters",
+    "album": "The Singles 1969-1973",
+    "year": "1973",
+    "mbid": "10f9f12a-2318-44f9-b7d5-d2874c595bf0",
+    "cover": "https://dn710109.ca.archive.org/0/items/mbid-10f9f12a-2318-44f9-b7d5-d2874c595bf0/mbid-10f9f12a-2318-44f9-b7d5-d2874c595bf0-32676731923.jpg",
+    "tracks": [
+      "We\u2019ve Only Just Begun",
+      "Top of the World",
+      "Ticket to Ride",
+      "Superstar",
+      "Rainy Days and Mondays",
+      "Goodbye to Love",
+      "Yesterday Once More",
+      "It\u2019s Going to Take Some Time",
+      "Sing",
+      "For All We Know",
+      "Hurting Each Other",
+      "(They Long to Be) Close to You"
+    ],
+    "genre": [
+      "Rock",
+      "Pop Rock",
+      "Easy Listening"
+    ]
+  },
+  {
+    "id": 56,
+    "artist": "Elvis Presley",
+    "album": "almost in love",
+    "year": "1970",
+    "mbid": "9c09e851-9560-4b53-ba11-1d5a05d35547",
+    "cover": "https://dn710207.ca.archive.org/0/items/mbid-9c09e851-9560-4b53-ba11-1d5a05d35547/mbid-9c09e851-9560-4b53-ba11-1d5a05d35547-35550713774.jpg",
+    "tracks": [
+      "Almost in Love",
+      "Long Legged Girl (with the Short Dress On)",
+      "Edge of Reality",
+      "My Little Friend",
+      "A Little Less Conversation",
+      "Rubberneckin\u2019",
+      "Clean Up Your Own Back Yard",
+      "U.S. Male",
+      "Charro",
+      "Stay Away, Joe"
+    ],
+    "genre": [
+      "Rock",
+      "Rock & Roll"
+    ]
+  },
+  {
+    "id": 57,
+    "artist": "Elvis Presley",
+    "album": "I Got Lucky",
+    "year": "1971",
+    "mbid": "f6704516-19f4-4e35-8849-94234f40de5f",
+    "cover": "https://dn711203.ca.archive.org/0/items/mbid-f6704516-19f4-4e35-8849-94234f40de5f/mbid-f6704516-19f4-4e35-8849-94234f40de5f-24778558862.jpg",
+    "tracks": [
+      "I Got Lucky",
+      "What a Wonderful Life",
+      "I Need Somebody to Lean On",
+      "Yoga Is as Yoga Does",
+      "Riding the Rainbow",
+      "Fools Fall in Love",
+      "The Love Machine",
+      "Home Is Where the Heart Is",
+      "You Gotta Stop",
+      "If You Think I Don\u2019t Need You"
+    ],
+    "genre": [
+      "Rock",
+      "Pop Rock"
+    ]
+  },
+  {
+    "id": 58,
+    "artist": "Elvis Presley",
+    "album": "Elvis Sings Flaming Star",
+    "year": "1969",
+    "mbid": "1b28265a-ed66-4f76-a4c7-ee049689850f",
+    "cover": "https://dn710704.ca.archive.org/0/items/mbid-1b28265a-ed66-4f76-a4c7-ee049689850f/mbid-1b28265a-ed66-4f76-a4c7-ee049689850f-24714928123.jpg",
+    "tracks": [
+      "Flaming Star",
+      "Wonderful World",
+      "Night Life",
+      "All I Needed Was the Rain",
+      "Too Much Monkey Business",
+      "Yellow Rose of Texas / Eyes of Texas",
+      "She's A Machine",
+      "Do the Vega",
+      "Tiger Man"
+    ],
+    "genre": [
+      "Rock",
+      "Rock & Roll"
     ]
   }
 ]
