@@ -1539,5 +1539,34 @@
       "Rock",
       "Rock & Roll"
     ]
+  },
+  {
+    "id": 59,
+    "artist": "Elvis Presley",
+    "album": "Frankie & Johnny",
+    "year": "1966",
+    "mbid": "47e8a427-250a-4b58-b7f9-118b8bebb535",
+    "cover": "https://dn711100.ca.archive.org/0/items/mbid-47e8a427-250a-4b58-b7f9-118b8bebb535/mbid-47e8a427-250a-4b58-b7f9-118b8bebb535-6648963505.jpg",
+    "tracks": [
+      "Frankie and Johnny",
+      "Come Along",
+      "Petunia the Gardener\u2019s Daughter",
+      "Chesay",
+      "What Every Woman Lives For",
+      "Look Out Broadway",
+      "Beginner\u2019s Luck",
+      "Down by the Riverside / When the Saints Go Marchin\u2019 In",
+      "Shout It Out",
+      "Hard Luck",
+      "Please Don\u2019t Stop Loving Me",
+      "Everybody Come Aboard"
+    ],
+    "genre": [
+      "Rock",
+      "Stage & Screen",
+      "Musical",
+      "Soundtrack",
+      "Rock & Roll"
+    ]
   }
 ]
