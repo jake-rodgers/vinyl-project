@@ -1,85 +1,62 @@
 {
-  "updated": "May 11, 2026",
+  "updated": "June 01, 2026",
   "picks": [
     {
-      "id": 3,
-      "artist": "Vulfpeck",
-      "album": "Clarity of Cal",
-      "year": "2025",
-      "mbid": "a2b93024-d1be-4309-9f5d-547f0603fed6",
-      "cover": "https://dn710706.ca.archive.org/0/items/mbid-a2b93024-d1be-4309-9f5d-547f0603fed6/mbid-a2b93024-d1be-4309-9f5d-547f0603fed6-41356521192.jpg",
+      "id": 34,
+      "artist": "Eddie Blazonczyk's Versatones",
+      "album": "Polka Medley Album",
+      "year": "1983",
+      "mbid": "",
+      "cover": "https://jake-rodgers.github.io/vinyl-project/images/eddieB_vinyl.jpeg",
       "tracks": [
-        "Big Dipper",
-        "Matter of Time",
-        "Can You Tell",
-        "In Real Life",
-        "Tender Defender",
-        "New Beastly",
-        "La Gioconda",
-        "The Heist",
-        "Memories",
-        "Aug 26",
-        "This Is Not the Song I Wrote"
+        "Give a Hand to The Band",
+        "Old Timers Polka Favorites",
+        "Tribute to the Bands",
+        "Versatones Greatest Hits"
+      ],
+      "genre": [
+        "Folk, World, & Country",
+        "Polka"
+      ]
+    },
+    {
+      "id": 7,
+      "artist": "Fearless Flyers",
+      "album": "Flyers Live at Madison Square Garden",
+      "year": "2021",
+      "mbid": "3d1f77c4-db52-4a75-9d94-6ff4ac59cf64",
+      "cover": "https://dn721607.ca.archive.org/0/items/mbid-3d1f77c4-db52-4a75-9d94-6ff4ac59cf64/mbid-3d1f77c4-db52-4a75-9d94-6ff4ac59cf64-34579360369.jpg",
+      "tracks": [
+        "Wild Blue Yonder",
+        "Ace of Aces",
+        "Introducing the Fearless Flyers",
+        "The Speedwalker",
+        "Lost My Treble Long Ago",
+        "Flyers Direct",
+        "Swampers",
+        "Barbara",
+        "Bicentennial",
+        "Hero Town",
+        "Simon F15",
+        "Signed Sealed Delivered"
       ],
       "genre": [
         "Funk / Soul",
-        "Funk",
-        "Neo Soul"
+        "Funk"
       ]
     },
     {
-      "id": 11,
-      "artist": "Streisand",
-      "album": "Superman",
-      "year": "1977",
-      "mbid": "672e4813-c3f5-3d78-a56e-1515c8674350",
-      "cover": "https://dn711309.ca.archive.org/0/items/mbid-672e4813-c3f5-3d78-a56e-1515c8674350/mbid-672e4813-c3f5-3d78-a56e-1515c8674350-1827713141.jpg",
+      "id": 35,
+      "artist": "De'Sean Jones",
+      "album": "URBAN ART ORCHESTRA live in DETROIT vol. 2",
+      "year": "2024",
+      "mbid": "",
+      "cover": "https://f4.bcbits.com/img/a3434877029_1x1_700.avif",
       "tracks": [
-        "Superman",
-        "Don\u2019t Believe What You Read",
-        "Baby Me Baby",
-        "I Found You Love",
-        "Answer Me",
-        "My Heart Belongs to Me",
-        "Cabin Fever",
-        "Love Comes From Unexpected Places",
-        "New York State of Mind",
-        "Lullaby for Myself"
-      ],
-      "genre": [
-        "Rock",
-        "Soft Rock"
-      ]
-    },
-    {
-      "id": 22,
-      "artist": "Various Artists",
-      "album": "Blue Note's Three Decades of Jazz - Volume 1 - 1939 - 1949",
-      "year": "",
-      "mbid": "5a1479de-9804-4fb3-8154-0294984dd904",
-      "cover": "https://dn720709.ca.archive.org/0/items/mbid-5a1479de-9804-4fb3-8154-0294984dd904/mbid-5a1479de-9804-4fb3-8154-0294984dd904-44164237586.jpg",
-      "tracks": [
-        "Boogie Woogie Stomp",
-        "Port of Harlem Blues",
-        "Summertime",
-        "The Father's Getaway",
-        "Honky Tonk Train Blues",
-        "Profoundly Blue",
-        "Climax Rag",
-        "Milk Cow Blues",
-        "Mule Walk",
-        "Seein' Red",
-        "After You've Gone",
-        "The Call of the Blues",
-        "Maple Leaf Rag",
-        "Blue Horizon",
-        "If I Had You",
-        "Limehouse Blues",
-        "Milenberg Joys",
-        "Dameronia",
-        "'Round About Midnight",
-        "Epistrophy",
-        "Tin Tin Deo"
+        "Before I Let Go feat. Kory Barksdale",
+        "Fall feat. Kenny Watson",
+        "Speak No Evil",
+        "Greyhound (mvmt i ii iii)"
       ],
       "genre": []
     }
