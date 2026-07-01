@@ -1,64 +1,74 @@
 {
-  "updated": "June 01, 2026",
+  "updated": "July 01, 2026",
   "picks": [
     {
-      "id": 34,
-      "artist": "Eddie Blazonczyk's Versatones",
-      "album": "Polka Medley Album",
-      "year": "1983",
+      "id": 2,
+      "artist": "Doechii",
+      "album": "Anxiety",
+      "year": 2025,
       "mbid": "",
-      "cover": "https://jake-rodgers.github.io/vinyl-project/images/eddieB_vinyl.jpeg",
+      "cover": "https://i.discogs.com/ex-d9VUdcmm5TUmTg_rnuZVZDNV4w0lzvHvJYy1ln08/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTcy/NzAzLTE3NTMwNDEy/OTQtMTAzMi5qcGVn.jpeg",
       "tracks": [
-        "Give a Hand to The Band",
-        "Old Timers Polka Favorites",
-        "Tribute to the Bands",
-        "Versatones Greatest Hits"
+        "Anxiety"
       ],
       "genre": [
-        "Folk, World, & Country",
-        "Polka"
+        "Hip Hop",
+        "Blues"
       ]
     },
     {
-      "id": 7,
-      "artist": "Fearless Flyers",
-      "album": "Flyers Live at Madison Square Garden",
-      "year": "2021",
-      "mbid": "3d1f77c4-db52-4a75-9d94-6ff4ac59cf64",
-      "cover": "https://dn721607.ca.archive.org/0/items/mbid-3d1f77c4-db52-4a75-9d94-6ff4ac59cf64/mbid-3d1f77c4-db52-4a75-9d94-6ff4ac59cf64-34579360369.jpg",
+      "id": 32,
+      "artist": "Original Broadway Cast",
+      "album": "The Sound of Music",
+      "year": "1959",
+      "mbid": "",
+      "cover": "https://i.discogs.com/bVHqsmP-8vNPIhFLQh8VYNU0si0tF636F0BpFy_VZdQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTQ2/OTQtMTIwNzI5MTE4/OS5qcGVn.jpeg",
       "tracks": [
-        "Wild Blue Yonder",
-        "Ace of Aces",
-        "Introducing the Fearless Flyers",
-        "The Speedwalker",
-        "Lost My Treble Long Ago",
-        "Flyers Direct",
-        "Swampers",
-        "Barbara",
-        "Bicentennial",
-        "Hero Town",
-        "Simon F15",
-        "Signed Sealed Delivered"
+        "Preludium",
+        "The Sound of Music",
+        "Maria",
+        "My Favorite Things",
+        "Do-Re-Mi",
+        "Sixteen Going on Seventeen",
+        "The Lonely Goatherd",
+        "How Can Love Survive?",
+        "The Sound of Music (Reprise)",
+        "Laendler",
+        "So Long, Farewell",
+        "Climb Ev'ry Mountain",
+        "No Way to Stop It",
+        "An Ordinary Couple",
+        "Processional",
+        "Sixteen Going on Seventeen (Reprise)",
+        "Edelweiss",
+        "Climb Ev'ry Mountain (Reprise)"
       ],
       "genre": [
-        "Funk / Soul",
-        "Funk"
+        "Stage & Screen",
+        "Musical"
       ]
     },
     {
-      "id": 35,
-      "artist": "De'Sean Jones",
-      "album": "URBAN ART ORCHESTRA live in DETROIT vol. 2",
-      "year": "2024",
-      "mbid": "",
-      "cover": "https://f4.bcbits.com/img/a3434877029_1x1_700.avif",
+      "id": 15,
+      "artist": "Weather Report",
+      "album": "Heavy Weather",
+      "year": "1977",
+      "mbid": "3a20f3f8-9cd7-42cd-beaf-c270110fd7ea",
+      "cover": "https://dn711005.ca.archive.org/0/items/mbid-3a20f3f8-9cd7-42cd-beaf-c270110fd7ea/mbid-3a20f3f8-9cd7-42cd-beaf-c270110fd7ea-6195610317.jpg",
       "tracks": [
-        "Before I Let Go feat. Kory Barksdale",
-        "Fall feat. Kenny Watson",
-        "Speak No Evil",
-        "Greyhound (mvmt i ii iii)"
+        "Birdland",
+        "A Remark You Made",
+        "Teen Town",
+        "Harlequin",
+        "Rumba Mama",
+        "Palladium",
+        "The Juggler",
+        "Havona"
       ],
-      "genre": []
+      "genre": [
+        "Jazz",
+        "Fusion"
+      ]
     }
   ]
 }
