@@ -1,73 +1,98 @@
 {
-  "updated": "July 01, 2026",
+  "updated": "August 01, 2026",
   "picks": [
     {
-      "id": 2,
-      "artist": "Doechii",
-      "album": "Anxiety",
-      "year": 2025,
-      "mbid": "",
-      "cover": "https://i.discogs.com/ex-d9VUdcmm5TUmTg_rnuZVZDNV4w0lzvHvJYy1ln08/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTcy/NzAzLTE3NTMwNDEy/OTQtMTAzMi5qcGVn.jpeg",
+      "id": 28,
+      "artist": "Duke Ellington and His Orchestra",
+      "album": "The Duke Ellington Carnegie Hall Concerts: January 1943",
+      "year": "1991",
+      "mbid": "c3c5d046-5de8-49ca-ac61-faa1f6652498",
+      "cover": "https://dn710202.ca.archive.org/0/items/mbid-c3c5d046-5de8-49ca-ac61-faa1f6652498/mbid-c3c5d046-5de8-49ca-ac61-faa1f6652498-37023280100.png",
       "tracks": [
-        "Anxiety"
-      ],
-      "genre": [
-        "Hip Hop",
-        "Blues"
-      ]
-    },
-    {
-      "id": 32,
-      "artist": "Original Broadway Cast",
-      "album": "The Sound of Music",
-      "year": "1959",
-      "mbid": "",
-      "cover": "https://i.discogs.com/bVHqsmP-8vNPIhFLQh8VYNU0si0tF636F0BpFy_VZdQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTQ2/OTQtMTIwNzI5MTE4/OS5qcGVn.jpeg",
-      "tracks": [
-        "Preludium",
-        "The Sound of Music",
-        "Maria",
-        "My Favorite Things",
-        "Do-Re-Mi",
-        "Sixteen Going on Seventeen",
-        "The Lonely Goatherd",
-        "How Can Love Survive?",
-        "The Sound of Music (Reprise)",
-        "Laendler",
-        "So Long, Farewell",
-        "Climb Ev'ry Mountain",
-        "No Way to Stop It",
-        "An Ordinary Couple",
-        "Processional",
-        "Sixteen Going on Seventeen (Reprise)",
-        "Edelweiss",
-        "Climb Ev'ry Mountain (Reprise)"
-      ],
-      "genre": [
-        "Stage & Screen",
-        "Musical"
-      ]
-    },
-    {
-      "id": 15,
-      "artist": "Weather Report",
-      "album": "Heavy Weather",
-      "year": "1977",
-      "mbid": "3a20f3f8-9cd7-42cd-beaf-c270110fd7ea",
-      "cover": "https://dn711005.ca.archive.org/0/items/mbid-3a20f3f8-9cd7-42cd-beaf-c270110fd7ea/mbid-3a20f3f8-9cd7-42cd-beaf-c270110fd7ea-6195610317.jpg",
-      "tracks": [
-        "Birdland",
-        "A Remark You Made",
-        "Teen Town",
-        "Harlequin",
-        "Rumba Mama",
-        "Palladium",
-        "The Juggler",
-        "Havona"
+        "The Star Spangled Banner",
+        "Black and Tan Fantasy",
+        "Rockin\u2019 in Rhythm",
+        "Moon Mist",
+        "Jumpin\u2019 Punkins",
+        "Portrait of Bert Williams",
+        "(Portrait of) Bojangles",
+        "Portrait of Florence Mills (Black Beauty)",
+        "Ko-Ko",
+        "Dirge",
+        "Stomp (Johnny Come Lately)",
+        "Are You Stickin\u2019?",
+        "Black (First Movement of Black, Brown and Beige)",
+        "Brown (Second Movement of Black, Brown and Beige)",
+        "Beige (Third Movement of Black, Brown and Beige)",
+        "Bakiff",
+        "Jack the Bear",
+        "Blue Belles of Harlem",
+        "Cotton Tail",
+        "Day Dream",
+        "Boy Meets Horn",
+        "Rose of the Rio Grande",
+        "Don\u2019t Get Around Much Anymore",
+        "Goin\u2019 Up",
+        "Mood Indigo"
       ],
       "genre": [
         "Jazz",
-        "Fusion"
+        "Big Band",
+        "Swing"
+      ]
+    },
+    {
+      "id": 9,
+      "artist": "Vulfpeck",
+      "album": "Thrill Of The Arts",
+      "year": "2015",
+      "mbid": "c39dae00-554e-467b-a611-519f7457ff79",
+      "cover": "https://i.discogs.com/YU_x0wMLJRLBCVQf72bf8B_8_AinMJU18lXh63xo_tw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Nzc4/OTQtMTQ0NDQxNzI1/MC0yNjIyLmpwZWc.jpeg",
+      "tracks": [
+        "Welcome to Vulf Records",
+        "Back Pocket",
+        "Funky Duck",
+        "Rango II",
+        "Game Winner",
+        "Walkies",
+        "Christmas in L.A.",
+        "Conscious Club (instrumental)",
+        "Smile Meditation",
+        "Guided Smile Meditation"
+      ],
+      "genre": [
+        "Funk / Soul",
+        "Funk"
+      ]
+    },
+    {
+      "id": 18,
+      "artist": "Billie Eilish",
+      "album": "When We All Fall Asleep Where Do We Go?",
+      "year": "2019",
+      "mbid": "83c209bb-258a-4620-9195-3f10d4efb880",
+      "cover": "https://dn721606.ca.archive.org/0/items/mbid-83c209bb-258a-4620-9195-3f10d4efb880/mbid-83c209bb-258a-4620-9195-3f10d4efb880-31830067379.jpg",
+      "tracks": [
+        "!!!!!!!",
+        "bad guy",
+        "xanny",
+        "you should see me in a crown",
+        "all the good girls go to hell",
+        "wish you were gay",
+        "when the party\u2019s over",
+        "8",
+        "my strange addiction",
+        "bury a friend",
+        "ilomilo",
+        "listen before i go",
+        "i love you",
+        "goodbye"
+      ],
+      "genre": [
+        "Electronic",
+        "Pop",
+        "Indie Pop",
+        "Alt-Pop"
       ]
     }
   ]
