@@ -1565,5 +1565,69 @@
       "Soundtrack",
       "Rock & Roll"
     ]
+  },
+  {
+    "id": 60,
+    "artist": "Bruno Mars",
+    "album": "Lo Arriesgo Todo",
+    "year": "2026",
+    "mbid": "19061e99-d0d7-46db-8624-3c04da2018f0",
+    "cover": "https://dn710207.ca.archive.org/0/items/mbid-19061e99-d0d7-46db-8624-3c04da2018f0/mbid-19061e99-d0d7-46db-8624-3c04da2018f0-45068459080.jpg",
+    "tracks": [
+      "Lo arriesgo todo",
+      "Risk It All"
+    ],
+    "genre": [
+      "Latin",
+      "Pop",
+      "Ballad"
+    ]
+  },
+  {
+    "id": 61,
+    "artist": "Vulfmon",
+    "album": "Vulfnik",
+    "year": "2023",
+    "mbid": "935c7181-a8c6-48a7-bed1-42029d1b91f7",
+    "cover": "https://dn721803.ca.archive.org/0/items/mbid-935c7181-a8c6-48a7-bed1-42029d1b91f7/mbid-935c7181-a8c6-48a7-bed1-42029d1b91f7-35837342418.jpg",
+    "tracks": [
+      "I Can\u2019t Party",
+      "Ucla",
+      "Bonnie Wait",
+      "Harpejji I",
+      "James Jamerson Used One Finger",
+      "Lord Will Make a Way",
+      "Harry\u2019s Theme (Lite Pullman)",
+      "Nice to You",
+      "Blue",
+      "How Much Do You Love Me (Ellis remix)"
+    ],
+    "genre": [
+      "Funk / Soul",
+      "Non-Music",
+      "Pop",
+      "Funk",
+      "Indie Pop",
+      "Spoken Word"
+    ]
+  },
+  {
+    "id": 62,
+    "artist": "Theo Katzman",
+    "album": "For Superman EP",
+    "year": "2026",
+    "mbid": "",
+    "cover": "https://i.discogs.com/DzpvCP0O46F0p-LnR1HhYPHlk0XlXle7FB9SG8nM4P8/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTQ0/NzAwLTE3ODA2NzM5/NjktNTQ0OS5qcGVn.jpeg",
+    "tracks": [
+      "Rome Wasn't Built In A Day",
+      "For Superman",
+      "Lisa Never Wanted To Be Famous",
+      "Lisa Never Wanted To Be Famous (Solo Acoustic)"
+    ],
+    "genre": [
+      "Funk / Soul",
+      "Pop",
+      "Folk, World, & Country"
+    ]
   }
 ]
