@@ -1629,5 +1629,30 @@
       "Pop",
       "Folk, World, & Country"
     ]
+  },
+  {
+    "id": 63,
+    "artist": "Barenaked Ladies",
+    "album": "Original Hits",
+    "year": "2019",
+    "mbid": "98a42350-bd0b-41c9-bb42-4e4524e72f00",
+    "cover": "https://dn711201.ca.archive.org/0/items/mbid-98a42350-bd0b-41c9-bb42-4e4524e72f00/mbid-98a42350-bd0b-41c9-bb42-4e4524e72f00-25697952408.jpg",
+    "tracks": [
+      "Pinch Me",
+      "Testing 1,2,3",
+      "Old Apartment",
+      "It\u2019s All Been Done",
+      "Falling for the First Time",
+      "Easy",
+      "Brian Wilson",
+      "Odds Are",
+      "Big Bang Theory Theme",
+      "One Week",
+      "If I Had $1000000",
+      "You Run Away"
+    ],
+    "genre": [
+      "Pop"
+    ]
   }
 ]
