@@ -1654,5 +1654,227 @@
     "genre": [
       "Pop"
     ]
+  },
+
+  {
+    "id": 64,
+    "artist": "Various Artists", 
+    "album": "Funny Lady",
+    "year": 1975,
+    "mbid": "",
+    "cover": "https://i.discogs.com/jcyLjRBzv9jygZgjYUElDhaZQ_LkqEp1vSOdc3efjT8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjY2/NDgtMTUxOTU5MzQy/NC00NTk0LmpwZWc.jpeg",
+    "tracks": [
+      "How Lucky Can You Get",
+      "So Long Honey Lamb",
+      "I Found A Million Dollar Baby",
+      "Isn't This Better",
+      "Me And My Shadow",
+      "If I Love Again",
+      "I Got A Code In My Doze",
+      "(It's Gonna Be A) Great Day",
+      "Blind Date",
+      "Am I Blue",
+      "It's Only A Paper Moon I Like Him",
+      "It's Only A Paper Moon I Like Her",
+      "More Than You Know",
+      "Clap Hands, Here Comes Charlie",
+      "Let's Here It For Me"
+    ],
+    "genre": [
+      "Stage & Screen",
+      "Musical"
+    ]
+  },
+
+  {
+    "id": 65,
+    "artist": "Various Artists",
+    "album": "Beer Drinkin\u2019 Sing Alongs!!",
+    "year": 1972,
+    "mbid": "",
+    "cover": "https://i.discogs.com/9RYwK_8ys2GVQyhrkysjKt7zNCmuRBCz5gHfew6R6P8/rs:fit/g:sm/q:90/h:572/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzA1/OTEtMTU4NjEzNTE4/MS04MzE1LmpwZWc.jpeg",
+    "tracks": [
+      "Hail, Hail The Gang\u2019s All Here / I\u2019ve Been Working On The Railroad",
+      "In The Good Old Summer Time / Take Me Out To The Ball Game",
+      "The Band Played On",
+      "Shine On Harvest Moon / Cuddle Up A Little Closer",
+      "That Old Gang Of Mine / Sweet Adeline",
+      "Bicycle Built For Two / Man On The Flying Trapeze",
+      "Bring Back My Bonnie To Me",
+      "Mary / Sweet Sixteen",
+      "There's A Tavern In The Town / For He's A Jolly Good Fellow / Auld Lang Syne"
+    ],
+    "genre": [
+      "Folk, World, & Country"
+    ]
+  },
+
+  {
+    "id": 66,
+    "artist": "Chicago",
+    "album": "Chicago IX: Chicago\u2019s Greatest Hits",
+    "year": 1975,
+    "cover": "https://i.discogs.com/mw2pGhqCFqVGxubH-8O6w7FKKMjkrtRlG8fbNP0P0TY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwOTQ4/NC0xMzY1Mzc0NjU3/LTQzMzAuanBlZw.jpeg",
+    "mbid": "",
+    "tracks": [
+      "25 Or 6 To 4",
+      "Does Anybody Really Know What Time It Is?",
+      "Colour My World",
+      "Just You \u2019N\u2019 Me",
+      "Saturday In The Park",
+      "Feelin\u2019 Stronger Every Day",
+      "Make Me Smile",
+      "Wishing You Were Here",
+      "Call On Me",
+      "(I've Been) Searchin\u2019 So Long",
+      "Beginnings"
+    ],
+    "genre": [
+      "Rock",
+      "Soft Rock",
+      "Pop Rock"
+    ]
+  },
+
+  {
+    "id": 67,
+    "artist": "Rodgers And Hammerstein - Julie Andrews, Christopher Plummer, Irwin Kostal",
+    "album": "The Sound Of Music (An Original Soundtrack Recording)",
+    "year": 1965,
+    "mbid": "",
+    "cover": "https://i.discogs.com/_3xsqLeyw_RXzeeIoDY_WgnQQsY5kQ1Ag2_pu7RZ9fs/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzA3/OC0xNDM1NDYxMTA0/LTI5MTguanBlZw.jpeg",
+    "tracks": [
+      "Prelude And The Sound Of Music",
+      "Overture And Preludium (Dixit Dominus)",
+      "Morning Hymn And Alleluia",
+      "Maria",
+      "I Have Confidence",
+      "Sixteen Going On Seventeen",
+      "My Favorite Things",
+      "Climb Ev\u2019ry Mountain",
+      "The Lonely Goatherd",
+      "The Sound Of Music",
+      "Do-Re-Mi",
+      "Something Good",
+      "Processional And Maria",
+      "Edelweiss",
+      "So Long, Farewell",
+      "Climb Ev\u2019ry Mountain (Reprise)"
+    ],
+    "genre": [
+      "Pop",
+      "Stage & Screen",
+      "Soundtrack",
+      "Vocal"
+    ]
+  },
+
+  {
+    "id": 68,
+    "artist": "Leonard Bernstein, Isaac Stern, Eugene Ormandy, André Kostelanetz, Mormon Tabernacle Choir",
+    "album": "100 Great Moments From the World's Favorite Music",
+    "year": 1967,
+    "mbid": "",
+    "cover": "https://i.discogs.com/tzUHaC9crrQ6byQqlsvAbvH3SaLCIVSOCuVMCSeKwIs/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMjc0/MTgtMTQ2MDg3Nzkz/OC0zNTY4LmpwZWc.jpeg",
+    "tracks": [
+      "Aida Grand March to Bolero",
+      "Cancan to Dance of the Tumblers",
+      "Elegie to Grieg\u2019s Piano Concerto",
+      "Hall of the Mountain King to Londonderry Air",
+      "March Militair to Nocturne",
+      "None But The Lonely Heart to Polka from \"The Age of Gold\"",
+      "Polovetsian Dance No. 2 to Rhapsody on a Theme of Paganini",
+      "Ride of the Valkyries to Swedish Rhapsody",
+      "Tales from the Vienna Woods to Viennese Musical Clock",
+      "Voices of Spring to Zampa Overture"
+    ],
+    "genre": [
+      "Classical"
+    ]
+  },
+
+  {
+    "id": 69,
+    "artist": "Dionne Warwick, Glen Campbell, Burt Bacharach",
+    "album": "On The Move",
+    "year": 1969,
+    "mbid": "",
+    "cover": "https://i.discogs.com/nxBC48WWOf5jyelrdN_MtSGppIYRJwxSnIC3yYMw3AM/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDUy/NzUxLTE1MTY1NzI5/MTEtMTc3MS5qcGVn.jpeg",
+    "tracks": [
+      "Walk On By",
+      "Wishin\u2019 And Hopin\u2019",
+      "Do You Know The Way To San Jose",
+      "I\u2019ve Been Loving You Too Long",
+      "Blowing In The Wind",
+      "(Sittin\u2019 On The) Dock Of The Bay",
+      "Pacific Coast Highway",
+      "Less Of Me",
+      "The Straight Life",
+      "This Guy\u2019s In Love With You"
+    ],
+    "genre": [
+      "Funk / Soul",
+      "Pop",
+      "Folk, World, & Country"
+    ]
+  },
+
+  {
+    "id": 70,
+    "artist": "Louis & Keely",
+    "album": "The Hits Of Louis & Keely",
+    "year": 1961,
+    "cover": "https://i.discogs.com/Wuxr3CI8Po9vASTlxkpsx7xYoeYKqxp6rm0xSRq5hco/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjM5/MTc0LTE1Nzg2OTIy/ODktNzk3Ny5qcGVn.jpeg",
+    "mbid": "",
+    "tracks": [
+      "That Old Black Magic",
+      "It\u2019s Magic",
+      "Just A Gigolo - I Ain't Got Nobody",
+      "I\u2019m In The Mood For Love",
+      "I\u2019ve Got You Under My Skin",
+      "Buona Sera",
+      "I Wish You Love",
+      "Oh Marie",
+      "Embraceable You - I Got It Bad And That Ain\u2019t Good"
+    ],
+    "genre": [
+      "Jazz",
+      "Blues",
+      "Jump Blues",
+      "Big Band"
+    ]
+  },
+
+  {
+    "id": 71,
+    "artist": "Various Artists",
+    "album": "Great Songs Of America", 
+    "mbid": "",
+    "year": 1967,
+    "cover": "https://i.discogs.com/9N_NNpWGQBCT2YllKHCmXFXOqki_x-rbkvKNEazqgh0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQz/ODAtMTQ1MzA2MTAy/NC0zNDg2LmpwZWc.jpeg",
+    "tracks": [
+      "Ringing Of The Liberty Bell",
+      "America The Beautiful",
+      "Battle Hymn Of The Republic",
+      "Anchors Aweigh - Marines\u2019 Hymn - The Caissons Go Rolling Along",
+      "Dixie - Yellow Rose Of Texas",
+      "Stars & Stripes Forever",
+      "My Country \u2019Tis Of Thee",
+      "Star Spangled Banner",
+      "Follow The Drinkin\u2019 Gourd",
+      "Rock Island Line",
+      "Cotton Pickers\u2019 Song",
+      "The Drillers\u2019 Song",
+      "Deep River",
+      "Californio",
+      "Bury Me Out On The Long Prairie",
+      "Home On The Range"
+    ],
+    "genre": [
+      "Brass & Military",
+      "Folk, World, & Country",
+      "Folk", 
+      "Military"
+    ]
   }
 ]
