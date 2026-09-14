@@ -1655,10 +1655,9 @@
       "Pop"
     ]
   },
-
   {
     "id": 64,
-    "artist": "Various Artists", 
+    "artist": "Various Artists",
     "album": "Funny Lady",
     "year": 1975,
     "mbid": "",
@@ -1685,7 +1684,6 @@
       "Musical"
     ]
   },
-
   {
     "id": 65,
     "artist": "Various Artists",
@@ -1708,7 +1706,6 @@
       "Folk, World, & Country"
     ]
   },
-
   {
     "id": 66,
     "artist": "Chicago",
@@ -1735,7 +1732,6 @@
       "Pop Rock"
     ]
   },
-
   {
     "id": 67,
     "artist": "Rodgers And Hammerstein - Julie Andrews, Christopher Plummer, Irwin Kostal",
@@ -1768,10 +1764,9 @@
       "Vocal"
     ]
   },
-
   {
     "id": 68,
-    "artist": "Leonard Bernstein, Isaac Stern, Eugene Ormandy, André Kostelanetz, Mormon Tabernacle Choir",
+    "artist": "Leonard Bernstein, Isaac Stern, Eugene Ormandy, Andr\u00c3\u00a9 Kostelanetz, Mormon Tabernacle Choir",
     "album": "100 Great Moments From the World\u2019s Favorite Music",
     "year": 1967,
     "mbid": "",
@@ -1792,7 +1787,6 @@
       "Classical"
     ]
   },
-
   {
     "id": 69,
     "artist": "Dionne Warwick, Glen Campbell, Burt Bacharach",
@@ -1818,7 +1812,6 @@
       "Folk, World, & Country"
     ]
   },
-
   {
     "id": 70,
     "artist": "Louis & Keely",
@@ -1844,11 +1837,10 @@
       "Big Band"
     ]
   },
-
   {
     "id": 71,
     "artist": "Various Artists",
-    "album": "Great Songs Of America", 
+    "album": "Great Songs Of America",
     "mbid": "",
     "year": 1967,
     "cover": "https://i.discogs.com/9N_NNpWGQBCT2YllKHCmXFXOqki_x-rbkvKNEazqgh0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQz/ODAtMTQ1MzA2MTAy/NC0zNDg2LmpwZWc.jpeg",
@@ -1873,11 +1865,10 @@
     "genre": [
       "Brass & Military",
       "Folk, World, & Country",
-      "Folk", 
+      "Folk",
       "Military"
     ]
   },
-
   {
     "id": 72,
     "artist": "Various Artists",
@@ -1917,11 +1908,10 @@
       "Polka"
     ]
   },
-
   {
     "id": 73,
     "artist": "Franklin D. Roosevelt / John F. Kennedy",
-    "album": "Actual Speeches Of Franklin D. Roosevelt And John F. Kennedy", 
+    "album": "Actual Speeches Of Franklin D. Roosevelt And John F. Kennedy",
     "year": 1963,
     "mbid": "",
     "cover": "https://i.discogs.com/x4eBeFTqxYgIii2Z2dtHxEDbey59PDFYTjBwXVnrzF8/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODIw/MzEtMTM1NjQzNzM4/MC05NDI2LmpwZWc.jpeg",
@@ -1934,7 +1924,6 @@
       "Speech"
     ]
   },
-
   {
     "id": 74,
     "artist": "Ray Conniff And The Singers",
@@ -1960,7 +1949,6 @@
       "Easy Listening"
     ]
   },
-
   {
     "id": 75,
     "artist": "Mario Nascimbene",
@@ -1978,11 +1966,10 @@
       "Spoken Word"
     ]
   },
-
   {
     "id": 76,
-    "artist": "Burt Bacharach", 
-    "album": "Reach Out", 
+    "artist": "Burt Bacharach",
+    "album": "Reach Out",
     "year": 1967,
     "mbid": "",
     "cover": "https://i.discogs.com/vgWS5oVqeMkps7SprLN7qW42zKuxvO38Bu8RasNUf6U/rs:fit/g:sm/q:90/h:548/w:551/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMjE2/NS0xMjM5NDQyMTc1/LmpwZWc.jpeg",
@@ -2006,14 +1993,13 @@
       "Easy Listening"
     ]
   },
-
   {
     "id": 77,
     "artist": "Bill Cosby",
     "album": "Why Is There Air?",
     "mbid": "",
     "year": 1965,
-    "cover": "https://i.discogs.com/CVTQka_yB4kw47BrQhsiF_hWJWCxEzhWrPcGXCG-XwY/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNjA2/NzItMTQ3NTg3OTky/Mi0zNTk5LmpwZWc.jpeg", 
+    "cover": "https://i.discogs.com/CVTQka_yB4kw47BrQhsiF_hWJWCxEzhWrPcGXCG-XwY/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNjA2/NzItMTQ3NTg3OTky/Mi0zNTk5LmpwZWc.jpeg",
     "tracks": [
       "Kindergarten",
       "Personal Hygiene",
@@ -2029,13 +2015,12 @@
       "Comedy"
     ]
   },
-
   {
     "id": 78,
-    "artist": "Mantovani And His Orchestra", 
-    "album": "Latin Rendezvous", 
+    "artist": "Mantovani And His Orchestra",
+    "album": "Latin Rendezvous",
     "year": 1963,
-    "mbid": "", 
+    "mbid": "",
     "cover": "https://i.discogs.com/Muq7DntJDIBTEL5-mUcHXaM7cgvWnSvK-u-RWZxJ3i8/rs:fit/g:sm/q:90/h:498/w:498/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTUw/OTYtMTMyOTU1NTU0/NC5qcGVn.jpeg",
     "tracks": [
       "Malaguena",
@@ -2057,11 +2042,10 @@
       "Easy Listening"
     ]
   },
-
   {
     "id": 79,
     "artist": "Various Artists",
-    "album": "Philharmonic Family Library Of Great Music Album 1", 
+    "album": "Philharmonic Family Library Of Great Music Album 1",
     "year": 1970,
     "mbid": "",
     "cover": "https://i.discogs.com/dmUmkibveqijJYJk1GwWjO9nEvs_S9s1SvtMbhJv5_w/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTEy/MTMtMTIzNDYyNjYy/OS5qcGVn.jpeg",
@@ -2081,14 +2065,13 @@
       "Romantic"
     ]
   },
-
   {
     "id": 80,
-    "artist": "Barbra Streisand", 
-    "album": "ButterFly", 
+    "artist": "Barbra Streisand",
+    "album": "ButterFly",
     "year": 1974,
     "mbid": "",
-    "cover": "https://i.discogs.com/--1srHUcNur25hECO2pMku-IbbP4AsWcYMXd1g26adQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzA2/NTg3LTE1NzE4ODgx/MjQtOTE5MS5qcGVn.jpeg", 
+    "cover": "https://i.discogs.com/--1srHUcNur25hECO2pMku-IbbP4AsWcYMXd1g26adQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzA2/NTg3LTE1NzE4ODgx/MjQtOTE5MS5qcGVn.jpeg",
     "tracks": [
       "Love In The Afternoon",
       "Guava Jelly",
@@ -2111,13 +2094,12 @@
       "Vocal"
     ]
   },
-
   {
-    "id": 81, 
-    "artist": "Maurice Jarre", 
-    "album": "Doctor Zhivago (Original Sound Track Album)", 
+    "id": 81,
+    "artist": "Maurice Jarre",
+    "album": "Doctor Zhivago (Original Sound Track Album)",
     "year": 1965,
-    "mbid": "", 
+    "mbid": "",
     "cover": "https://i.discogs.com/NZYa_Q2oiyUFqir8jb2HsL5FCGFJ79hHG13DcR3nkvo/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTQ1/MTQtMTcyMzIzODMw/Mi02NjEwLmpwZWc.jpeg",
     "tracks": [
       "Overture From \"Doctor Zhivago\"",
@@ -2139,11 +2121,10 @@
       "Soundtrack"
     ]
   },
-
   {
     "id": 82,
-    "artist": "101 Strings", 
-    "album": "Music From Doctor Zhivago With Other Favorite Russian Melodies", 
+    "artist": "101 Strings",
+    "album": "Music From Doctor Zhivago With Other Favorite Russian Melodies",
     "year": 1972,
     "mbid": "",
     "cover": "https://i.discogs.com/lr0ai_SPwgMzgp64OWT8BTpulp_vhWVZg-uaxLAFlVM/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTk1/MjAtMTYxMTUwNzYz/Ni04NDU0LmpwZWc.jpeg",
@@ -2163,14 +2144,13 @@
       "Orchestra"
     ]
   },
-
   {
     "id": 83,
     "artist": "John F. Kennedy",
-    "album": "John Fitzgerald Kennedy 1917-1963 (A Memorial Album)", 
+    "album": "John Fitzgerald Kennedy 1917-1963 (A Memorial Album)",
     "year": 1963,
     "mbid": "",
-    "cover": "https://i.discogs.com/h9PdHoFfPIrPSWo41C04Nw_SG2_YsszIDl-8V6JAmxQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDQ0/MDctMTc2NTA5MTU3/MC0zOTU4LmpwZWc.jpeg", 
+    "cover": "https://i.discogs.com/h9PdHoFfPIrPSWo41C04Nw_SG2_YsszIDl-8V6JAmxQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDQ0/MDctMTc2NTA5MTU3/MC0zOTU4LmpwZWc.jpeg",
     "tracks": [
       "Pre-Election Speech Of Senator Kennedy",
       "Oath Of Office For Presidency By J.F.K.",
@@ -2195,14 +2175,13 @@
       "Speech"
     ]
   },
-
   {
     "id": 84,
     "artist": "Eddie Cantor",
-    "album": "Original Recordings Eddie Cantor Sings, Ida, Sweet As Apple Cider And His Other Hits", 
+    "album": "Original Recordings Eddie Cantor Sings, Ida, Sweet As Apple Cider And His Other Hits",
     "year": 1964,
     "mbid": "",
-    "cover": "https://i.discogs.com/uo-n8u9iB12xScziVOW7oLqXf1Wu3Up2pmaoGex2fsM/rs:fit/g:sm/q:90/h:481/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MzA1/OTgtMTM2Nzg2MTA0/OS00MDUyLmpwZWc.jpeg", 
+    "cover": "https://i.discogs.com/uo-n8u9iB12xScziVOW7oLqXf1Wu3Up2pmaoGex2fsM/rs:fit/g:sm/q:90/h:481/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MzA1/OTgtMTM2Nzg2MTA0/OS00MDUyLmpwZWc.jpeg",
     "tracks": [
       "Ida, Sweet As Apple Cider",
       "Margie",
@@ -2222,11 +2201,10 @@
       "Music Hall"
     ]
   },
-
   {
     "id": 85,
-    "artist": "Sandy Nelson", 
-    "album": "Drums À Go-Go", 
+    "artist": "Sandy Nelson",
+    "album": "Drums \u00c3\u20ac Go-Go",
     "year": 1965,
     "mbid": "",
     "cover": "https://i.discogs.com/HdUctogjjuO-ThgZgScMltJ_AHv7P2VQ-1UeageTEuU/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjQ4/OTItMTUyMjA2ODMy/OC0zMjg0LmpwZWc.jpeg",
@@ -2250,11 +2228,10 @@
       "Pop Rock"
     ]
   },
-
   {
     "id": 86,
-    "artist": "Various Artists", 
-    "album": "Free Samples", 
+    "artist": "Various Artists",
+    "album": "Free Samples",
     "mbid": "",
     "year": 1977,
     "cover": "https://i.ebayimg.com/images/g/TGUAAOSwVbhl0SJH/s-l400.jpg",
@@ -2276,8 +2253,7 @@
     "genre": [
       "Folk, World, & Country"
     ]
-  }, 
-
+  },
   {
     "id": 87,
     "artist": "Frankie Carle, His Piano And Orchestra",
@@ -2303,7 +2279,6 @@
       "Easy Listening"
     ]
   },
-
   {
     "id": 88,
     "artist": "Seals & Crofts",
@@ -2332,6 +2307,42 @@
     "genre": [
       "Rock",
       "Pop"
+    ]
+  },
+  {
+    "id": 89,
+    "artist": "Stevie Wonder",
+    "album": "Songs In The Key Of Life",
+    "year": "1984",
+    "mbid": "631ae495-130b-413f-b44f-04ac845eb711",
+    "cover": "https://dn711002.ca.archive.org/0/items/mbid-631ae495-130b-413f-b44f-04ac845eb711/mbid-631ae495-130b-413f-b44f-04ac845eb711-16535084939.jpg",
+    "tracks": [
+      "Love\u2019s in Need of Love Today",
+      "Have a Talk With God",
+      "Village Ghetto Land",
+      "Contusion",
+      "Sir Duke",
+      "Ngiculela - Es Una Historia / I Am Singing",
+      "If It\u2019s Magic",
+      "As",
+      "Another Star",
+      "I Wish",
+      "Knocks Me Off My Feet",
+      "Pastime Paradise",
+      "Summer Soft",
+      "Ordinary Pain",
+      "Isn\u2019t She Lovely",
+      "Joy Inside My Tears",
+      "Black Man",
+      "Saturn",
+      "Ebony Eyes",
+      "All Day Sucker",
+      "Easy Goin\u2019 Evening (My Mama\u2019s Call)"
+    ],
+    "genre": [
+      "Funk / Soul",
+      "Soul",
+      "Disco"
     ]
   }
 ]
