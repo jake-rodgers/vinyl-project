@@ -20,7 +20,7 @@ def fetch_mbid(artist, album):
     query = urllib.parse.urlencode({
         "query": f'release:"{album}" AND artist:"{artist}"',
         "fmt": "json",
-        "limit": 5  # Grab a few results so we can pick the best one
+        "limit": 10  # Grab a few results so we can pick the best one
     })
     url = f"https://musicbrainz.org/ws/2/release?{query}"
     req = urllib.request.Request(url, headers={

@@ -2344,5 +2344,216 @@
       "Soul",
       "Disco"
     ]
+  },
+  {
+    "id": 90,
+    "artist": "Luke Combs",
+    "album": "The Way I Am",
+    "year": "2026",
+    "mbid": "772c52d8-ddf1-4490-a1cc-b45e3ad933f4",
+    "cover": "https://i.discogs.com/qWn91lpMPfIzaWYca56hQI1T_ORODqN47VFcIBrpfi8/rs:fit/g:sm/q:90/h:250/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTg1/ODU3LTE3NzU0MjUw/NzgtNjE4My5wbmc.jpeg",
+    "tracks": [
+      "Back in the Saddle",
+      "My Kinda Saturday Night",
+      "Days Like These",
+      "15 Minutes",
+      "Alcohol of Fame",
+      "Daytona 499",
+      "The Way I Am",
+      "Wish Upon a Whiskey",
+      "Soon as I Get Home",
+      "Rethink Some Things",
+      "Giving Her Away",
+      "Seeing Someone",
+      "Sleepless in a Hotel Room",
+      "I Ain\u2019t No Cowboy",
+      "Ever Mine",
+      "Can\u2019t Tell Me I\u2019m Wrong",
+      "Miss You Here",
+      "Tell \u2019Em About Tonight",
+      "Be by You",
+      "The Me Part of You",
+      "Rich Man",
+      "A Man Was Born"
+    ],
+    "genre": [
+      "Rock",
+      "Folk, World, & Country",
+      "Country Rock",
+      "Country"
+    ]
+  },
+  {
+    "id": 91,
+    "artist": "Lawrence Welk And His Champagne Music",
+    "album": "Music For Polka Lovers",
+    "year": "1956",
+    "mbid": "ecee4f64-0ea1-4ac3-862b-9f78c307f0f1",
+    "cover": "https://dn711000.ca.archive.org/0/items/mbid-ecee4f64-0ea1-4ac3-862b-9f78c307f0f1/mbid-ecee4f64-0ea1-4ac3-862b-9f78c307f0f1-23880971304.jpg",
+    "tracks": [
+      "Dakota Polka",
+      "Kit Kat Polka",
+      "Merry Christmas Polka",
+      "Laughing Polka",
+      "Tiger Rag",
+      "Chopsticks Polka",
+      "Hoop Dee Doo",
+      "Bar Room Polka",
+      "Emilia Polka",
+      "Tinker Polka",
+      "Julida Polka",
+      "Military Polka"
+    ],
+    "genre": [
+      "Folk, World, & Country",
+      "Polka"
+    ]
+  },
+  {
+    "id": 92,
+    "artist": "Various Artists",
+    "album": "The Best of the Big Bands",
+    "year": "1968",
+    "mbid": "a195b64b-877b-4263-b701-d5c72a6537b4",
+    "cover": "https://dn710006.ca.archive.org/0/items/mbid-a195b64b-877b-4263-b701-d5c72a6537b4/mbid-a195b64b-877b-4263-b701-d5c72a6537b4-29322661362.jpg",
+    "tracks": [
+      "Let's Dance",
+      "You Made Me Love You",
+      "Leap Frog",
+      "Chickery Chick",
+      "I Should Care",
+      "Woodchopper's Ball",
+      "Take the \"A\" Train",
+      "Mood Indigo",
+      "Little Brown Jug",
+      "Juke Box Saturday Night",
+      "My Devotion",
+      "Boogie Blues",
+      "Early Autumn",
+      "Celery Stalks at Midnight",
+      "Nightmare",
+      "The Toy Trumpet",
+      "None but the Lonely Heart",
+      "Hot Lips",
+      "My Dreams Are Getting Better All the Time",
+      "Stardust",
+      "Pompton Turnpike",
+      "Autumn Nocturne",
+      "Beat Me Daddy (Eight to the Bar)",
+      "Melody of Love",
+      "Honeysuckle Rose",
+      "Three Little Fishes (Itty Bitty Poo)",
+      "Billy",
+      "One O'Clock Jump",
+      "Two O'Clock Jump",
+      "I've Got a Feelin' I'm Fallin'",
+      "Sunrise Serenade",
+      "I Got Rhythm",
+      "Snowfall",
+      "Sugar Blues",
+      "Trumpet Blues (And Cantabile)",
+      "Does Your Heart Beat for Me"
+    ],
+    "genre": []
+  },
+  {
+    "id": 93,
+    "artist": "Steve Miller Band",
+    "album": "Fly Like An Eagle",
+    "year": "1976",
+    "mbid": "2a9dd31a-9f4d-454e-8dfa-feaba4f12f0d",
+    "cover": "https://i.discogs.com/-g5_7QhSIOfgkYuVyDj6W7cmlprY2GA-wFs9LSElJL0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzA0/Ny0xNDI3MDUzMDE3/LTYzNTMucG5n.jpeg",
+    "tracks": [
+      "Fly Like an Eagle",
+      "Space Odyssey",
+      "Wild Mountain Honey",
+      "Serenade",
+      "Dance, Dance, Dance",
+      "Mercury Blues",
+      "Take the Money and Run",
+      "Rock'n Me",
+      "You Send Me",
+      "Blue Odyssey",
+      "Sweet Maree",
+      "The Window"
+    ],
+    "genre": [
+      "Rock",
+      "Pop Rock"
+    ]
+  },
+  {
+    "id": 94,
+    "artist": "101 Strings Orchestra and The Alshire Singers",
+    "album": "Play And Sing The Songs Of The Beach Boys",
+    "mbid": "",
+    "year": 1976,
+    "cover": "https://i.discogs.com/huSSDgZF9gagf03uQNH4rxo6zSG7sMR7_C7XsTEKJVo/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NDA3/OTYtMTQ0MTU1ODY4/NC04NTk4LmpwZWc.jpeg",
+    "tracks": [
+      "California Girls",
+      "Help Me Ronda",
+      "I Get Around",
+      "Goodtime Feelin\u2019",
+      "Good Vibrations",
+      "Fun Fun Fun",
+      "Don\u2019t Worry Baby",
+      "Goodbye Baby",
+      "Wouldn\u2019t It Be Nice",
+      "Darlin\u2019"
+    ],
+    "genre": [
+      "Rock",
+      "Classical",
+      "Surf"
+    ]
+  },
+  {
+    "id": 95,
+    "artist": "Percy Faith His Orchestra And Chorus",
+    "album": "Leaving On A Jet Plane",
+    "year": "1970",
+    "mbid": "2205957c-c2b8-4a9f-b211-c9efc20a1a37",
+    "cover": "https://dn721505.ca.archive.org/0/items/mbid-2205957c-c2b8-4a9f-b211-c9efc20a1a37/mbid-2205957c-c2b8-4a9f-b211-c9efc20a1a37-1878178446.jpg",
+    "tracks": [
+      "Leaving on a Jet Plane",
+      "Early in the Morning",
+      "Ballad of Easy Rider",
+      "Raindrops Keep Fallin' on My Head",
+      "Everybody's Talkin'",
+      "Wedding Bell Blues",
+      "Something",
+      "Let Go (Canto de Ossanha)",
+      "Colours",
+      "Yester-Me, Yester-You, Yesterday",
+      "Wanting You"
+    ],
+    "genre": [
+      "Pop",
+      "Ballad"
+    ]
+  },
+  {
+    "id": 96,
+    "artist": "Santana",
+    "album": "Santana's Greatest Hits",
+    "year": "1974",
+    "mbid": "166e1d74-30c8-4249-884d-dfd66acf7c1c",
+    "cover": "https://ia800406.us.archive.org/25/items/mbid-166e1d74-30c8-4249-884d-dfd66acf7c1c/mbid-166e1d74-30c8-4249-884d-dfd66acf7c1c-43984896443.jpg",
+    "tracks": [
+      "Evil Ways",
+      "Jin\u2010go\u2010lo\u2010ba",
+      "Hope You\u2019re Feeling Better",
+      "Samba pa ti",
+      "Persuasion",
+      "Black Magic Woman",
+      "Oye como va",
+      "Everything\u2019s Coming Our Way",
+      "Se a cabo",
+      "Everybody\u2019s Everything"
+    ],
+    "genre": [
+      "Rock",
+      "Classic Rock"
+    ]
   }
 ]
