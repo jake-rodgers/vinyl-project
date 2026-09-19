@@ -30,7 +30,14 @@ def pick_records():
 
     all_ids = [r["id"] for r in records]
 
-    # Refill and reshuffle the pool once every record has been picked
+    # Find any records that aren't in the pool yet and add them
+    known_ids = set(state["remaining"]) | set(state["picked_history"])
+    new_ids = [i for i in all_ids if i not in known_ids]
+    if new_ids:
+        print(f"Adding {len(new_ids)} new record(s) to the pool.")
+        state["remaining"].extend(new_ids)
+
+    # Refill and reshuffle once every record has been picked
     if not state["remaining"]:
         print("Full cycle complete — reshuffling all records.")
         state["remaining"] = all_ids.copy()
