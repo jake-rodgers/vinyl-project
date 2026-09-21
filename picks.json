@@ -1,91 +1,97 @@
 {
-  "updated": "September 01, 2026",
+  "updated": "September 21, 2026",
   "picks": [
     {
-      "id": 4,
-      "artist": "Bruno Mars",
-      "album": "The Romantic",
-      "year": "2026",
-      "mbid": "871ceb1b-4b17-423b-b82a-3d20268b0c24",
-      "cover": "https://dn720905.ca.archive.org/0/items/mbid-871ceb1b-4b17-423b-b82a-3d20268b0c24/mbid-871ceb1b-4b17-423b-b82a-3d20268b0c24-44511292581.jpg",
+      "id": 29,
+      "artist": "James Brown",
+      "album": "Grits & Soul",
+      "year": "1964",
+      "mbid": "654a0f9c-3573-4a5a-bfee-79f45e46851b",
+      "cover": "https://dn710605.ca.archive.org/0/items/mbid-654a0f9c-3573-4a5a-bfee-79f45e46851b/mbid-654a0f9c-3573-4a5a-bfee-79f45e46851b-18577954177.jpg",
       "tracks": [
-        "Risk It All",
-        "Cha Cha Cha",
-        "I Just Might",
-        "God Was Showing Off",
-        "Why You Wanna Fight?",
-        "On My Soul",
-        "Something Serious",
-        "Nothing Left",
-        "Dance With Me"
-      ],
-      "genre": [
-        "Pop"
-      ]
-    },
-    {
-      "id": 21,
-      "artist": "Bobby Vinton",
-      "album": "20 All-Time Greatest Hits",
-      "year": "2002",
-      "mbid": "267292f3-dd10-4fbf-8d64-a8bc59601e4b",
-      "cover": "https://i.discogs.com/G_VV3uKlUxAhHM_kgmtHFo0LODBCZhBFmhSrHHxDnzg/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MjI4/OTMtMTU3NTU0NjIy/NC05OTg2LmpwZWc.jpeg",
-      "tracks": [
-        "Roses Are Red (My Love) (1962)",
-        "Blue Velvet (1963)",
-        "Mr. Lonely (1964)",
-        "Blue on Blue (1963)",
-        "Please Love Me Forever (1967)",
-        "I Love How You Love Me (1968)",
-        "My Heart Belongs to Only You (1963)",
-        "Coming Home Soldier (1966)",
-        "Rain Rain Go Way (1962)",
-        "Clinging Vine (1964)",
-        "There! I\u2019ve Said It Again (1964)",
-        "Sealed With a Kiss (1967)",
-        "Over the Mountain (Across the Sea) (1963)",
-        "L-O-N-E-L-Y (1965)",
-        "Halfway to Paradise (1968)",
-        "Satin Pillows (1965)",
-        "Take Good Care of My Baby (1968)",
-        "To Know You Is to Love You (1969)",
-        "Just as Much as Ever (1966)",
-        "Let\u2019s Kiss and Make Up (1962)"
-      ],
-      "genre": [
-        "Pop",
-        "Vocal"
-      ]
-    },
-    {
-      "id": 17,
-      "artist": "Khalid",
-      "album": "Free Spirit",
-      "year": "2019",
-      "mbid": "3a5cbae4-5b58-4428-b278-47d0157f200d",
-      "cover": "https://dn721602.ca.archive.org/0/items/mbid-3a5cbae4-5b58-4428-b278-47d0157f200d/mbid-3a5cbae4-5b58-4428-b278-47d0157f200d-30276597383.jpg",
-      "tracks": [
-        "Intro",
-        "Bad Luck",
-        "My Bad",
-        "Better",
-        "Talk",
-        "Right Back",
-        "Don\u2019t Pretend",
-        "Paradise",
-        "Hundred",
-        "Outta My Head",
-        "Free Spirit",
-        "Twenty One",
-        "Bluffin\u2019",
-        "Self",
-        "Alive",
-        "Heaven",
-        "Saturday Nights"
+        "Grits",
+        "Tempted",
+        "There",
+        "After You\u2019re Through",
+        "Devil\u2019s Hideaway",
+        "Who\u2019s Afraid of Virginia Woolf",
+        "Infatuation",
+        "Wee Wee",
+        "Mister Hip",
+        "Headache"
       ],
       "genre": [
         "Funk / Soul",
-        "Contemporary R&B"
+        "Rhythm & Blues",
+        "Soul"
+      ]
+    },
+    {
+      "id": 27,
+      "artist": "George Frederick Handel; The Philadelphia Orchestra, Eugene Ormandy, The Mormon Tabernacle Choir, Eileen Farrell, Martha Lipton, Davis Cunningham, William Warfield",
+      "album": "Messiah",
+      "year": "1959",
+      "mbid": "a871237b-f0e7-3792-b9a7-9c6185ba3170",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/5/51/Messiah_%28Mormon_Tabernacle_Choir_album%29.jpg",
+      "tracks": [
+        "Messiah: 1. Overture",
+        "Messiah: 2. Comfort ye, my people",
+        "Messiah: 3. Every valley shall be exalted",
+        "Messiah: 4. And the glory of the Lord",
+        "Messiah: 5. Thus saith the Lord",
+        "Messiah: 6. But who may abide",
+        "Messiah: 7. And He shall purify",
+        "Messiah: 8. Behold a virgin shall conceive",
+        "Messiah: 9. O thou that tellest good tidings to Zion",
+        "Messiah: 12. For unto us a Child is born",
+        "Messiah: 13. Pastoral Symphony",
+        "Messiah: 14. There were shepherds",
+        "Messiah: 15. And the angel said unto them",
+        "Messiah: 16. And suddenly there was with the angel",
+        "Messiah: 17. Glory to God",
+        "Messiah: 19. Then shall the eyes of the blind be opened",
+        "Messiah: 20. He shall feed His flock",
+        "Messiah: 21. His yoke is easy",
+        "Messiah: 22. Behold the Lamb of God",
+        "Messiah: 23. He was despised",
+        "Messiah: 24. Surely He hath borne our griefs",
+        "Messiah: 25. And with His stripes we are healed",
+        "Messiah: 26. All we like sheep have gone astray",
+        "Messiah: 33. Lift up your heads",
+        "Messiah: 40. Why do the nations?",
+        "Messiah: 42. He that dwelleth in Heaven",
+        "Messiah: 43. Thou shalt break them",
+        "Messiah: 44. Hallelujah!",
+        "Messiah: 45. I know that my Redeemer liveth",
+        "Messiah: 47. Behold, I tell you a mystery",
+        "Messiah: 48. The trumpet shall sound",
+        "Messiah: 53. Worthy is the Lamb"
+      ],
+      "genre": []
+    },
+    {
+      "id": 6,
+      "artist": "Cory Wong",
+      "album": "Cory & The Wongnotes",
+      "year": "2021",
+      "mbid": "a0876ba1-5a30-4cbf-a2f6-b0ffb39e8728",
+      "cover": "https://i.discogs.com/rX5O7caQbk4P4tNndhxyWlUPb8lu7EK2tdPIIVWXNJo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzEz/NzU1LTE2MjQ5NDg4/MjMtMjU1NS5qcGVn.jpeg",
+      "tracks": [
+        "Cory and The Wongnotes Theme",
+        "Merci",
+        "Heist",
+        "Tiki Hut Strut",
+        "Coming Back Around",
+        "Starfire",
+        "United",
+        "Headin\u2019 Down To Bunkers",
+        "Lee",
+        "Bluebird",
+        "Stevie Wonder Medley"
+      ],
+      "genre": [
+        "Funk / Soul",
+        "Funk"
       ]
     }
   ]
