@@ -1,101 +1,71 @@
 {
-  "updated": "October 01, 2026",
+  "updated": "October 15, 2026",
   "picks": [
     {
-      "id": 30,
-      "artist": "Silk Sonic",
-      "album": "An Evening With Silk Sonic",
-      "year": "2022",
-      "mbid": "6897bfe8-16aa-44fd-89fc-f010bdf4b203",
-      "cover": "https://dn721904.ca.archive.org/0/items/mbid-6897bfe8-16aa-44fd-89fc-f010bdf4b203/mbid-6897bfe8-16aa-44fd-89fc-f010bdf4b203-34236325832.jpg",
+      "id": 25,
+      "artist": "Sammy Rae & The Friends",
+      "album": "The Good Life",
+      "year": "2018",
+      "mbid": "d4ed2ec1-102e-488a-85bf-b3036215528d",
+      "cover": "https://shop.bandwear.com/cdn/shop/products/image_454_grande.png?v=1674516012",
       "tracks": [
-        "Silk Sonic Intro",
-        "Leave the Door Open",
-        "Fly as Me",
-        "After Last Night",
-        "Smokin Out the Window",
-        "Put on a Smile",
-        "777",
-        "Skate",
-        "Love\u2019s Train",
-        "Blast Off"
-      ],
-      "genre": [
-        "Funk / Soul",
-        "Contemporary R&B",
-        "Soul",
-        "Funk",
-        "Disco"
-      ]
-    },
-    {
-      "id": 20,
-      "artist": "Frank Sinatra",
-      "album": "Ultimate Sinatra",
-      "year": "2015",
-      "mbid": "7797f31a-fa7d-48f8-8cc7-1f599038b23f",
-      "cover": "https://ia801207.us.archive.org/24/items/mbid-7797f31a-fa7d-48f8-8cc7-1f599038b23f/mbid-7797f31a-fa7d-48f8-8cc7-1f599038b23f-40553951719.jpg",
-      "tracks": [
-        "All or Nothing at All (78 RPM version)",
-        "I\u2019ll Never Smile Again",
-        "Saturday Night (Is the Loneliest Night of the Week) (78 RPM version)",
-        "Nancy (With the Laughing Face) (78 RPM version)",
-        "I\u2019ve Got the World on a String",
-        "Young at Heart",
-        "In the Wee Small Hours of the Morning",
-        "Learnin\u2019 the Blues",
-        "Love and Marriage",
-        "I\u2019ve Got You Under My Skin",
-        "Witchcraft",
-        "All the Way",
-        "Come Fly With Me",
-        "One for My Baby (and One More for the Road)",
-        "The Way You Look Tonight",
-        "My Kind of Town",
-        "Fly Me to the Moon",
-        "It Was a Very Good Year",
-        "Strangers in the Night",
-        "Summer Wind",
-        "That\u2019s Life",
-        "My Way",
-        "Theme From New York, New York",
-        "Put Your Dreams Away",
-        "Just in Time",
-        "Chicago"
+        "The Feeling",
+        "Good Life",
+        "Flesh & Bone",
+        "Talk It Up",
+        "Kick It to Me"
       ],
       "genre": [
         "Jazz",
-        "Pop",
-        "Vocal",
-        "Ballad",
+        "Rock",
+        "Blues",
         "Swing"
       ]
     },
     {
-      "id": 26,
-      "artist": "Earth Wind & Fire",
-      "album": "The Best of Earth Wind & Fire Vol. 1",
-      "year": "1978",
-      "mbid": "3a7d6d8e-a90d-425d-9cad-dc1c6f894a89",
-      "cover": "https://ia800704.us.archive.org/11/items/mbid-3a7d6d8e-a90d-425d-9cad-dc1c6f894a89/mbid-3a7d6d8e-a90d-425d-9cad-dc1c6f894a89-19983801140.jpg",
+      "id": 10,
+      "artist": "Styx",
+      "album": "Paradise Theatre",
+      "year": "1981",
+      "mbid": "cc9dd05c-e565-4b8f-b6ae-bbfaeb72204d",
+      "cover": "https://dn710705.ca.archive.org/0/items/mbid-cc9dd05c-e565-4b8f-b6ae-bbfaeb72204d/mbid-cc9dd05c-e565-4b8f-b6ae-bbfaeb72204d-30093264074.jpg",
       "tracks": [
-        "Got to Get You Into My Life",
-        "Fantasy",
-        "Can\u2019t Hide Love",
-        "Love Music",
-        "Getaway",
-        "That\u2019s the Way of the World",
-        "September",
-        "Shining Star",
-        "Reasons",
-        "Sing a Song"
+        "A.D. 1928",
+        "Rockin\u2019 the Paradise",
+        "Too Much Time on My Hands",
+        "Nothing Ever Goes as Planned",
+        "The Best of Times",
+        "Lonely People",
+        "She Cares",
+        "Snowblind",
+        "Half\u2010Penny, Two\u2010Penny",
+        "A.D. 1958",
+        "State Street Sadie"
       ],
       "genre": [
-        "Funk / Soul",
-        "Funk",
-        "Soul",
-        "Disco"
+        "Rock",
+        "Pop Rock",
+        "Classic Rock"
       ]
+    },
+    {
+      "id": 31,
+      "artist": "Various Artists",
+      "album": "Wagner\u2019s Greatest Hits",
+      "year": "",
+      "mbid": "2a68d68d-0699-46bf-8363-2f4e9aa724d1",
+      "cover": "https://i.discogs.com/AHa8thC-9lDlVFLDCHAdjHwiokCVhS-uDfwSd4GTcGw/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4OTc1/NTAtMTY1OTY2Mzc3/Ni03OTk4LmpwZWc.jpeg",
+      "tracks": [
+        "Die Meistersinger: Prelude to Act 1",
+        "Lohengrin: Prelude to Act III",
+        "Lohengrin: Act III: Bridal Chorus",
+        "Tristan and Isolde: Act III: Liebestod",
+        "Tannh\u00e4user: Act II: Festmarsch",
+        "Tannh\u00e4user: Act III: Pigrim\u2019s Chorus",
+        "Tannh\u00e4user: Act III: Song to the Evening Star",
+        "Die Walk\u00fcre: Act III: Ride of the Valkyries"
+      ],
+      "genre": []
     }
   ]
 }
