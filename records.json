@@ -2555,5 +2555,135 @@
       "Rock",
       "Classic Rock"
     ]
+  },
+  {
+    "id": 97,
+    "artist": "Bee Gees",
+    "album": "Children Of The World",
+    "year": "1976",
+    "mbid": "2e5f46d4-b16f-3205-9a55-da193324a4e6",
+    "cover": "https://dn711102.ca.archive.org/0/items/mbid-2e5f46d4-b16f-3205-9a55-da193324a4e6/mbid-2e5f46d4-b16f-3205-9a55-da193324a4e6-1079901776.jpg",
+    "tracks": [
+      "You Should Be Dancing",
+      "You Stepped Into My Life",
+      "Love So Right",
+      "Lovers",
+      "Can't Keep a Good Man Down",
+      "Boogie Child",
+      "Love Me",
+      "Subway",
+      "The Way It Was",
+      "Children of the World"
+    ],
+    "genre": [
+      "Pop",
+      "Disco"
+    ]
+  },
+  {
+    "id": 98,
+    "artist": "John Denver",
+    "album": "It's About Time",
+    "year": "1983",
+    "mbid": "186c7742-8573-4904-877c-3a3d74fe97ad",
+    "cover": "https://dn710207.ca.archive.org/0/items/mbid-186c7742-8573-4904-877c-3a3d74fe97ad/mbid-186c7742-8573-4904-877c-3a3d74fe97ad-39328776164.jpg",
+    "tracks": [
+      "Hold On Tightly",
+      "Thought of You",
+      "Somethin\u2019 About",
+      "On the Wings of a Dream",
+      "Flight (The Higher We Fly)",
+      "Falling Out of Love",
+      "I Remember Romance",
+      "Wild Montana Skies",
+      "World Game",
+      "It\u2019s About Time"
+    ],
+    "genre": [
+      "Rock",
+      "Folk Rock",
+      "Country Rock"
+    ]
+  },
+  {
+    "id": 99,
+    "artist": "Dolly Parton",
+    "album": "Greatest Hits",
+    "year": "1982",
+    "mbid": "e9d9c168-fde3-46b8-957d-d6063982e48c",
+    "cover": "https://dn711202.ca.archive.org/0/items/mbid-e9d9c168-fde3-46b8-957d-d6063982e48c/mbid-e9d9c168-fde3-46b8-957d-d6063982e48c-41701012860.jpg",
+    "tracks": [
+      "9 to 5",
+      "But You Know I Love You",
+      "Heartbreak Express",
+      "Old Flames",
+      "Applejack",
+      "Me and Little Andy",
+      "Here You Come Again",
+      "Islands in the Stream",
+      "Two Doors Down",
+      "It\u2019s All Wrong, but It\u2019s All Right",
+      "Do I Ever Cross Your Mind",
+      "I Will Always Love You"
+    ],
+    "genre": [
+      "Rock",
+      "Pop",
+      "Folk, World, & Country",
+      "Country",
+      "Pop Rock"
+    ]
+  },
+  {
+    "id": 100,
+    "artist": "Nat King Cole",
+    "album": "You\u2019re My Everything",
+    "year": 1967,
+    "mbid": "",
+    "cover": "https://www.discogs.com/release/1482207-Nat-King-Cole-Youre-My-Everything/image/SW1hZ2U6MTIxMDIzODg4",
+    "tracks": [
+      "You\u2019re My Everything",
+      "Little Coquette",
+      "Magic Moments",
+      "You\u2019ll See",
+      "Bend A Little My Way",
+      "The Girl From Ipanema",
+      "Because You\u2019re Mine",
+      "Brush Those Tears From Your Eyes",
+      "Poinciana"
+    ],
+    "genre": [
+      "Jazz",
+      "Big Band",
+      "Ballad",
+      "Swing"
+    ]
+  },
+
+  {
+    "id": 101,
+    "artist": "Nat King Cole",
+    "album": "Stay As Sweet As You Are",
+    "year": 1967,
+    "mbid": "",
+    "cover": "https://www.discogs.com/master/544677-Nat-King-Cole-Stay-As-Sweet-As-You-Are/image/SW1hZ2U6MzMzNzQ5MDQ=",
+    "tracks": [
+      "Stay As Sweet As You Are",
+      "You Stepped Out Of A Dream",
+      "Angel Eyes",
+      "If I Give My Heart To You",
+      "On The Street Where You Live",
+      "Get Me To The CHurch On Time",
+      "What Is There To Say",
+      "Don\u2019t Get Around Much Anymore",
+      "Paradise",
+      "When Your Lover Has Gone"
+    ],
+    "genre": [
+      "Jazz",
+      "Soul-Jazz",
+      "Easy Listening",
+      "Ballad"
+    ]
   }
 ]
