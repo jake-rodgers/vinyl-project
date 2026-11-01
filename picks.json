@@ -1,71 +1,68 @@
 {
-  "updated": "October 15, 2026",
+  "updated": "November 01, 2026",
   "picks": [
     {
-      "id": 25,
-      "artist": "Sammy Rae & The Friends",
-      "album": "The Good Life",
-      "year": "2018",
-      "mbid": "d4ed2ec1-102e-488a-85bf-b3036215528d",
-      "cover": "https://shop.bandwear.com/cdn/shop/products/image_454_grande.png?v=1674516012",
+      "id": 23,
+      "artist": "Rob Base & D.J. E-Z Rock",
+      "album": "Joy and Pain Remix",
+      "year": "2022",
+      "mbid": "335db944-2336-44ff-95c9-a20ab6cc5e69",
+      "cover": "https://dn720704.ca.archive.org/0/items/mbid-335db944-2336-44ff-95c9-a20ab6cc5e69/mbid-335db944-2336-44ff-95c9-a20ab6cc5e69-43595737290.jpg",
       "tracks": [
-        "The Feeling",
-        "Good Life",
-        "Flesh & Bone",
-        "Talk It Up",
-        "Kick It to Me"
+        "Joy and Pain (radio version)",
+        "Joy and Pain (World to World remix)",
+        "Joy and Pain (No\u2010Rap\u2010Attack\u2010Dub\u2010Track)",
+        "Joy and Pain (Rob\u2010A\u2010Pella)"
+      ],
+      "genre": [
+        "Hip Hop",
+        "Pop Rap"
+      ]
+    },
+    {
+      "id": 12,
+      "artist": "Mendelssohn",
+      "album": "Violin Concerto in E Minor, OP. 64",
+      "year": "1946",
+      "mbid": "3ea05f90-7b41-49fa-801b-afc4ca2d41bd",
+      "cover": "https://jake-rodgers.github.io/vinyl-project/images/mendelssohn_violinconcerto.jpeg",
+      "tracks": [
+        "Violin Concerto in E minor, op. 64 (Part Two)",
+        "Violin Concerto in E minor, op. 64 (Part Four)"
+      ],
+      "genre": [
+        "Classical"
+      ]
+    },
+    {
+      "id": 14,
+      "artist": "Claudine",
+      "album": "The Look of Love",
+      "year": "1967",
+      "mbid": "0a3a7549-c80f-3826-ad1f-4a0b1d98814f",
+      "cover": "https://dn710306.ca.archive.org/0/items/mbid-0a3a7549-c80f-3826-ad1f-4a0b1d98814f/mbid-0a3a7549-c80f-3826-ad1f-4a0b1d98814f-1695700698.jpg",
+      "tracks": [
+        "The Look of Love",
+        "Man in a Raincoat",
+        "Think of Rain",
+        "How Insensitive",
+        "Manha de Carnaval",
+        "I Love How You Love Me",
+        "Creators of Rain",
+        "When I\u2019m Sixty-four",
+        "Good Day Sunshine",
+        "The End of the World"
       ],
       "genre": [
         "Jazz",
-        "Rock",
-        "Blues",
-        "Swing"
+        "Pop",
+        "Stage & Screen",
+        "Easy Listening",
+        "Chanson",
+        "Light Music",
+        "Ballad",
+        "Theme"
       ]
-    },
-    {
-      "id": 10,
-      "artist": "Styx",
-      "album": "Paradise Theatre",
-      "year": "1981",
-      "mbid": "cc9dd05c-e565-4b8f-b6ae-bbfaeb72204d",
-      "cover": "https://dn710705.ca.archive.org/0/items/mbid-cc9dd05c-e565-4b8f-b6ae-bbfaeb72204d/mbid-cc9dd05c-e565-4b8f-b6ae-bbfaeb72204d-30093264074.jpg",
-      "tracks": [
-        "A.D. 1928",
-        "Rockin\u2019 the Paradise",
-        "Too Much Time on My Hands",
-        "Nothing Ever Goes as Planned",
-        "The Best of Times",
-        "Lonely People",
-        "She Cares",
-        "Snowblind",
-        "Half\u2010Penny, Two\u2010Penny",
-        "A.D. 1958",
-        "State Street Sadie"
-      ],
-      "genre": [
-        "Rock",
-        "Pop Rock",
-        "Classic Rock"
-      ]
-    },
-    {
-      "id": 31,
-      "artist": "Various Artists",
-      "album": "Wagner\u2019s Greatest Hits",
-      "year": "",
-      "mbid": "2a68d68d-0699-46bf-8363-2f4e9aa724d1",
-      "cover": "https://i.discogs.com/AHa8thC-9lDlVFLDCHAdjHwiokCVhS-uDfwSd4GTcGw/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4OTc1/NTAtMTY1OTY2Mzc3/Ni03OTk4LmpwZWc.jpeg",
-      "tracks": [
-        "Die Meistersinger: Prelude to Act 1",
-        "Lohengrin: Prelude to Act III",
-        "Lohengrin: Act III: Bridal Chorus",
-        "Tristan and Isolde: Act III: Liebestod",
-        "Tannh\u00e4user: Act II: Festmarsch",
-        "Tannh\u00e4user: Act III: Pigrim\u2019s Chorus",
-        "Tannh\u00e4user: Act III: Song to the Evening Star",
-        "Die Walk\u00fcre: Act III: Ride of the Valkyries"
-      ],
-      "genre": []
     }
   ]
 }
