@@ -2659,7 +2659,6 @@
       "Swing"
     ]
   },
-
   {
     "id": 101,
     "artist": "Nat King Cole",
@@ -2684,6 +2683,35 @@
       "Soul-Jazz",
       "Easy Listening",
       "Ballad"
+    ]
+  },
+  {
+    "id": 102,
+    "artist": "Taylor Swift",
+    "album": "1989",
+    "year": "2018",
+    "mbid": "3b081424-fc9a-4c69-94cc-ee8685e93267",
+    "cover": "https://archive.org/download/mbid-d5cb50d8-8897-4029-b9b3-32806df7e06d/mbid-d5cb50d8-8897-4029-b9b3-32806df7e06d-9282848916_thumb500.jpg",
+    "tracks": [
+      "Welcome to New York",
+      "Blank Space",
+      "Style",
+      "Out of the Woods",
+      "All You Had to Do Was Stay",
+      "Shake It Off",
+      "I Wish You Would",
+      "Bad Blood",
+      "Wildest Dreams",
+      "How You Get the Girl",
+      "This Love",
+      "I Know Places",
+      "Clean"
+    ],
+    "genre": [
+      "Rock",
+      "Pop",
+      "Pop Rock",
+      "Dance-pop"
     ]
   }
 ]
