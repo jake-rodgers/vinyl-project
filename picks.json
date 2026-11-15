@@ -1,68 +1,91 @@
 {
-  "updated": "November 01, 2026",
+  "updated": "November 15, 2026",
   "picks": [
     {
-      "id": 23,
-      "artist": "Rob Base & D.J. E-Z Rock",
-      "album": "Joy and Pain Remix",
-      "year": "2022",
-      "mbid": "335db944-2336-44ff-95c9-a20ab6cc5e69",
-      "cover": "https://dn720704.ca.archive.org/0/items/mbid-335db944-2336-44ff-95c9-a20ab6cc5e69/mbid-335db944-2336-44ff-95c9-a20ab6cc5e69-43595737290.jpg",
+      "id": 5,
+      "artist": "Ray Charles",
+      "album": "No One Does It Like Ray Charles",
+      "year": "2025",
+      "mbid": "1da4c3e4-96f9-4231-8fce-a79748e7cdef",
+      "cover": "https://dn710208.ca.archive.org/0/items/mbid-1da4c3e4-96f9-4231-8fce-a79748e7cdef/mbid-1da4c3e4-96f9-4231-8fce-a79748e7cdef-44065945107.jpg",
       "tracks": [
-        "Joy and Pain (radio version)",
-        "Joy and Pain (World to World remix)",
-        "Joy and Pain (No\u2010Rap\u2010Attack\u2010Dub\u2010Track)",
-        "Joy and Pain (Rob\u2010A\u2010Pella)"
+        "My Baby Don\u2019t Dig Me",
+        "Without Love (There Is Nothing)",
+        "The Brightest Smile in Town",
+        "Hide nor Hair",
+        "My Baby (I Love Her, Yes I Do)",
+        "No One",
+        "Don\u2019t Set Me Free",
+        "Something\u2019s Wrong",
+        "At the Club",
+        "Worried Life Blues (Someday Baby)",
+        "Who You Gonna Love",
+        "My Heart Cries for You"
       ],
       "genre": [
-        "Hip Hop",
-        "Pop Rap"
+        "Funk / Soul",
+        "Pop",
+        "Rhythm & Blues"
       ]
     },
     {
-      "id": 12,
-      "artist": "Mendelssohn",
-      "album": "Violin Concerto in E Minor, OP. 64",
-      "year": "1946",
-      "mbid": "3ea05f90-7b41-49fa-801b-afc4ca2d41bd",
-      "cover": "https://jake-rodgers.github.io/vinyl-project/images/mendelssohn_violinconcerto.jpeg",
+      "id": 19,
+      "artist": "Chuck Mangione",
+      "album": "Chase The Clouds Away",
+      "year": "1975",
+      "mbid": "d27d7181-577b-49a7-b3a4-c461ed50eee8",
+      "cover": "https://dn710909.ca.archive.org/0/items/mbid-d27d7181-577b-49a7-b3a4-c461ed50eee8/mbid-d27d7181-577b-49a7-b3a4-c461ed50eee8-10832325225.jpg",
       "tracks": [
-        "Violin Concerto in E minor, op. 64 (Part Two)",
-        "Violin Concerto in E minor, op. 64 (Part Four)"
-      ],
-      "genre": [
-        "Classical"
-      ]
-    },
-    {
-      "id": 14,
-      "artist": "Claudine",
-      "album": "The Look of Love",
-      "year": "1967",
-      "mbid": "0a3a7549-c80f-3826-ad1f-4a0b1d98814f",
-      "cover": "https://dn710306.ca.archive.org/0/items/mbid-0a3a7549-c80f-3826-ad1f-4a0b1d98814f/mbid-0a3a7549-c80f-3826-ad1f-4a0b1d98814f-1695700698.jpg",
-      "tracks": [
-        "The Look of Love",
-        "Man in a Raincoat",
-        "Think of Rain",
-        "How Insensitive",
-        "Manha de Carnaval",
-        "I Love How You Love Me",
-        "Creators of Rain",
-        "When I\u2019m Sixty-four",
-        "Good Day Sunshine",
-        "The End of the World"
+        "Song of the New Moon",
+        "Can\u2019t We Do This All Night",
+        "He Was a Friend of Mine",
+        "Echano",
+        "Chase the Clouds Away",
+        "Soft"
       ],
       "genre": [
         "Jazz",
-        "Pop",
-        "Stage & Screen",
-        "Easy Listening",
-        "Chanson",
-        "Light Music",
-        "Ballad",
-        "Theme"
+        "Blues",
+        "Easy Listening"
       ]
+    },
+    {
+      "id": 36,
+      "artist": "Various Artists",
+      "album": "Limo",
+      "year": "1977",
+      "mbid": "37c4cf17-6099-4407-8b82-d8b476b45637",
+      "cover": "https://dn710609.ca.archive.org/0/items/mbid-37c4cf17-6099-4407-8b82-d8b476b45637/mbid-37c4cf17-6099-4407-8b82-d8b476b45637-13467160297.jpg",
+      "tracks": [
+        "Alimony",
+        "Moolah Moo Mazuma (Sin City Wahh-oo)",
+        "Windy City Breakdown",
+        "Runaway",
+        "Red Streamliner",
+        "Flamingos Fly",
+        "You Make Me Feel Like Dancing",
+        "Better Than Anything",
+        "Walking Song",
+        "The Runaway",
+        "California Dreamin\u2019",
+        "Dreams",
+        "Goodbye Miss Sadness",
+        "Didn\u2019t Wanna Hurt Cha for Another Guy",
+        "Nothing but a Breeze",
+        "Living Is Good",
+        "Higher & Higher",
+        "What a Way to End It All",
+        "Aloha Ka Manini",
+        "In the Mood",
+        "Nothin\u2019 Iz New",
+        "She",
+        "Phantom Writer",
+        "In a Stranger\u2019s Arms",
+        "Call of the Wild",
+        "You\u2019re Made That Way",
+        "Tonight\u2019s the Night (Gonna Be Alright)"
+      ],
+      "genre": []
     }
   ]
 }
